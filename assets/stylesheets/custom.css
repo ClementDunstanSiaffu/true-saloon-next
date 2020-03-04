@@ -1,0 +1,2698 @@
+/* for the header.js */ 
+.right{
+    margin-left: -90px;
+    margin-right: 280px;
+}
+
+
+/* for the home.js*/
+    .right2 {
+      
+        margin-top: 100px;
+    }
+  
+/* right2 */
+@media only screen and (max-width:480px){
+    .right2 > h1 {
+
+        font-size: 50px;
+        color: white;
+        font-family:  "Brush Script MT";
+    }
+    .right2 > h3{
+    
+        color: white;
+        font-size: 14px;
+        font-weight: bold;
+        margin-left: 70px;
+}}
+@media only screen and (min-width:480px){
+    .right2 > h1 {
+
+        font-size: 50px;
+        color: white;
+        font-family:  "Brush Script MT";
+    }
+    .right2 > h3{
+    
+        color: white;
+        font-size: 16px;
+        font-weight: bold;
+        margin-left: 50px;
+}}
+@media only screen and (min-width:768px){
+    .right2 > h1 {
+
+        font-size: 80px;
+        color: white;
+        font-family:  "Brush Script MT";
+    }
+    .right2 > h3{
+    
+        color: white;
+        font-size: 16px;
+        font-weight: bold;
+        margin-left: 180px;
+}}
+@media only screen and (min-width:992px){
+    .right2 > h1 {
+
+        font-size: 100px;
+        color: white;
+        font-family:  "Brush Script MT";
+    }
+    .right2 > h3{
+    
+        color: white;
+        font-size: 18px;
+        font-weight: bold;
+        margin-left: 250px;
+}}
+@media only screen and (min-width:1200px){
+    .right2 > h1 {
+
+        font-size: 120px;
+        color: white;
+        font-family:  "Brush Script MT";
+    }
+    .right2 > h3{
+    
+        color: white;
+        font-size: 20px;
+        font-weight: bold;
+        margin-left: 300px;
+}}
+
+/* ends here */
+
+
+/*for the about.js */
+
+/* right 4 */
+@media only screen and (min-width:480px){
+    .right4{
+
+        margin-top: 180px;
+        
+        
+        }}
+@media only screen and (max-width:480px){
+    .right4{
+
+        margin-top: 220px;
+        margin-left: 20px;
+        }}
+
+ @media only screen and (min-width: 768px) {
+    .right4{
+
+        margin-top: 210px;
+        
+        }}
+
+ @media only screen and (min-width: 992px) {
+    .right4{
+
+        margin-top: 240px;
+        }}
+@media only screen and (min-width: 1200px) {
+    .right4{
+
+        margin-top: 180px;
+        }}
+
+
+/* right4 > p */
+
+
+
+@media only screen and (max-width: 480px){
+
+    .right4 > p{
+        margin-left:-20px;
+        font-size: 10px;
+        color:orange;
+        font-weight: bold;
+        
+    }}
+@media only screen and (min-width: 480px){
+.right4 > p {
+       
+        margin-right:-100px;
+        color:green;
+        font-weight: bold;
+        font-size: 12px;
+      
+   
+}}
+
+@media only screen and (min-width:768px){
+    .right4 > p {
+         margin-left:-10px;
+         margin-right: -150px;
+        font-size: 12px;
+        color:yellow;
+        font-weight: bold;
+    }}
+
+@media only screen and (min-width:992px){
+    .right4 > p {
+        margin-right:-150px;
+        font-size: 12px;
+        color:red;
+        font-weight: bold;
+    }}
+@media only screen and (min-width: 1200px){
+    .right4 > p {
+    
+        color: black;
+        font-size: 20px;
+        font-weight: bold;
+}}
+/* end */
+
+
+
+
+
+.right5{
+    margin-top: -500px;
+    
+    margin-left: 250px;
+}
+
+
+/* right6 */
+@media only screen and (min-width: 480px){
+.right6  {
+    font-size: 25px;
+    font-weight: 700;
+    margin-left: -75px;
+    margin-right: -30px;
+    margin-top: 50px;
+}}
+@media only screen and (max-width: 480px){
+    .right6  {
+        font-size: 25px;
+        font-weight: 700;
+        margin-left: -70px;
+        margin-right: -30px;
+        margin-top: 50px;
+    }}
+@media only screen and (min-width:768px){
+    .right6{
+        font-size: 35px;
+        font-weight: 700;
+        margin-left: -5px;
+        margin-right: -30px;
+        margin-top: -570px;
+}}
+@media only screen and (min-width:992px){
+    .right6{font-size: 45px;
+    font-weight: 700;
+    margin-left: 40px;
+    margin-right: -30px;
+    margin-top: -550px;
+   
+}}
+
+@media only screen and (min-width:1200px){
+    .right6{
+        font-size: 50px;
+        font-weight: 900;
+        margin-left: 100px;
+        margin-top: -720px;
+}} 
+
+/* end */
+
+
+/* right7 */
+    @media only screen and (min-width: 480px){
+.right7 {
+           margin-left: -80px;
+            color: black;
+            font-size: 14px;
+            font-weight: 500;
+            text-align: start;
+}}
+
+
+@media only screen and (max-width: 480px){
+        .right7 {
+            margin-left: -75px;
+            text-align: start;
+            color: black;
+            font-size: 14px;
+            font-weight: 500;
+ }}
+@media only screen and (min-width:768px){
+    .right7 {
+        margin-left: -20px;
+        color: black;
+        font-size: 18px;
+        font-weight: 500;
+        text-align: start;
+    }}
+@media only screen and (min-width:992px){
+    .right7 {
+            margin-left: 0px;
+            color: black;
+            font-size: 18px;
+            font-weight: 500;
+            text-align: start;
+}}
+@media only screen and (min-width:1200px){
+    .right7 {
+        margin-left: 65px;
+        color: black;
+        font-size: 20px;
+        font-weight: 600;
+        text-align: start;
+    }}
+
+/* end */
+
+/* right50 */
+
+/*@media only screen and (min-width:480px){
+ .right50 {
+
+        margin-left: 0px;
+}}
+
+@media only screen and (max-width:480px){
+.right50 {
+        text-align: left;
+        margin-left: -10px;
+    }} */
+
+/*@media only screen and (min-width:768){
+    .right50 {
+    
+        margin-left: 0px;
+}}*/
+/*@media only screen and (min-width:1200px){
+    .right50 {
+
+        margin-left: 0px;
+}}*/
+/* end */
+
+
+/* right51 */
+ /*@media only screen and (min-width:480px){
+.right51{
+        margin-left: -11px;
+    }}*/
+/*@media only screen and (max-width:480px){
+.right51{
+        margin-left: -76px;
+    }} */
+/*@media only screen and (min-width:1200px){
+    .right50 {
+    margin-left: 0px;
+}}*/
+/* end */
+
+
+/* right52 */
+ /*@media only screen and (min-width:600px) {
+.right52 {
+ margin-left:0px;
+    }}*/
+/*@media only screen and (max-width:480px){
+.right52 {
+margin-left:-70px;
+    }}*/
+/*@media only screen and (min-width:768px){
+    .right52 {
+        margin-left:0px;
+           }} */ 
+/*@media only screen and (min-width:1200px){
+    .right52 {
+        margin-left:0px;
+           }}*/
+/* end */
+
+
+/* right53 */
+/*@media only screen and (min-width:600px){
+.right53{
+margin-left:0px;
+    }}*/
+/*@media only screen and (max-width:480px){
+.right53{
+ margin-left:-70px;
+    }}*/
+/*@media only screen and (min-width:768px){
+    .right53{
+        margin-left:0px;
+     }}*/
+/*@media only screen and (min-width:1200px){
+    .right53{
+        margin-left:0px;
+     }}*/
+/* end */
+
+
+/* right54 */
+@media only screen and (min-width:480px){
+.right54 {
+        background-color: lightslategray;
+        background-size: cover;
+        margin-top: -20px;
+        min-height: 640px;
+        overflow: hidden;
+}}
+@media only screen and (max-width:480px){
+.right54 {
+        background-color: lightslategray;
+        background-size: cover;
+        margin-top: 20px;
+        min-height: 370px;
+        overflow: hidden;
+    }}
+@media only screen and (min-width:768px){
+    .right54 {
+        background-color: lightslategray;
+        background-size: cover;
+        margin-top: -20px;
+        min-height: 645px;
+        overflow: hidden;
+        
+}}
+@media only screen and (min-width:1200px){
+    .right54 {
+        background-color:lightslategray;
+        background-size: cover;
+        margin-top: -20px;
+        min-height: 645px;
+        opacity: 0.8;
+       overflow: hidden;
+}}
+/* end of about */
+
+
+
+
+
+/* for the service.js*/
+/* right8 */
+@media only screen and (min-width:480px){
+.right8{
+        background-color: lightseagreen;
+        margin-top: -50px;
+        min-height: 640px;
+    }}
+@media only screen and (max-width:480px){
+.right8{
+            background-color: lightseagreen;
+            min-height: 320px;
+        }}
+@media only screena and (min-width:768px){
+    .right8{
+        background-color: lightseagreen ;
+        margin-top: -50px;
+        min-height: 640px;
+}}
+@media only screen and (min-width:992px){
+    .right8{
+            background-color: lightseagreen;
+            margin-top: -50px;
+            min-height: 640px;
+        }}
+@media only screen and (min-width:1200px){
+    .right8{
+        background-color: lightseagreen;
+        margin-top: -50px;
+        min-height: 640px;
+    }}
+
+
+
+/* right9 */
+@media only screen and (min-width:480px){
+    .right9{
+        margin-top: 30px;
+        margin-bottom: 80px;
+}}
+@media only screen and (max-width:480px){
+    .right9{
+        margin-top: 15px;
+        margin-bottom: 65px;
+}}
+@media only screen and (min-width:768px){
+    .right9{
+        margin-top: 60px;
+        margin-bottom: 80px;
+}}
+@media only screen and (min-width:992px){
+    .right9{
+        margin-top: 70px;
+        margin-bottom: 100px;
+}}
+@media only screen and (min-width:1200px){
+    .right9{
+        margin-top: 75px;
+        margin-bottom: 125px;
+}} 
+
+
+
+/* right10 */
+@media only screen and (min-width : 480px){
+.right10{
+    padding:auto 100px;
+    
+        width: 110px;
+        margin-left: 30px;
+        margin-right:-100px;
+        border-radius: 70px;
+        height: 110px;
+}}
+@media only screen and (max-width : 480px){
+    .right10{
+        padding:auto 90px;
+        width: 110px;
+        margin-left: 30px;
+        
+        border-radius: 70px;
+        height: 110px;
+}}
+@media only screen and (min-width:768px){
+    .right10{
+        padding:auto 100px;
+        width: 170px;
+        margin-left: 80px;
+        margin-right:-140px;
+        border-radius: 85px;
+        height: 170px;
+}}
+@media only screen and (min-width:992px){
+    .right10{
+        padding:auto 100px;
+        width: 230px;
+        margin-left: 103px;
+        margin-right:-140px;
+        border-radius: 115px;
+        height: 230px;
+}}
+@media only screen and (min-width:1200px){
+    .right10{
+        padding:auto 100px;
+        width: 250px;
+        margin-left: 140px;
+        border-radius: 200px;
+        height: 250px;
+}}
+
+
+/*right11 */
+@media only screen and (min-width:480px){
+    .right11{
+        margin-top: 125px;
+ }}
+@media only screen and (max-width:480px){
+    .right11{
+        margin-top: 75px;
+}}
+@media only screen and (min-width:768px){
+    .right11{
+        margin-top: 150px;
+}}
+@media only screen and (min-width:992px){
+    .right11{
+        margin-top: 175px;
+ }}
+@media only screen and (min-width:1200px){
+    .right11{
+        margin-top: 200px;
+ }}
+
+
+/* right11 > h1 */
+@media only screen and (min-width:480px){
+    .right11 > h1 {
+        font-weight: 600;
+        font-size:40px;
+        text-align: center;
+}}
+@media only screen and (max-width:480px){
+    .right11 > h1 {
+      font-weight: 600;
+      font-size: 40px;
+      text-align: center;
+}}
+@media only screen and (min-width:768px){
+    .right11 > h1 {
+        font-weight: 600;
+        font-size: 40px;
+        text-align: center;
+}}
+@media only screen and (min-width:992px){
+    .right11 > h1 {
+        font-weight: 600;
+        font-size: 45px;
+}}
+@media only screen and (min-width:1200px){
+    .right11 > h1 {
+        font-weight: 600;
+}}
+
+
+/* right11 > p */
+@media only screen and (min-width:480px){
+    .right11 > p {
+        font-size: 22px;
+        font-weight: 300;
+        color: brown;
+        text-align: center;
+}}
+@media only screen and (max-width:480px){
+    .right11 > p {
+        font-size: 20px;
+        font-weight: 300;
+        color: brown;
+        text-align: center;
+}}
+@media only screen and (min-width:768px){
+    .right11 > p {
+        font-size: 25px;
+        font-weight: 300;
+        color: brown;
+        text-align: center;
+}}
+@media only screen and (min-width:992px){
+    .right11 > p {
+        font-size: 27.5px;
+        font-weight: 300;
+        color: brown;
+}}
+@media only screen and (min-width:1200px){
+    .right11 > p {
+        font-size: 30px;
+        font-weight: 300;
+        color: brown;
+}}
+
+
+/*right12 */
+@media only screen and (min-width:480px){
+.right12{
+    margin-top: -100px;
+    margin-left: 105px;
+    color: white;
+}}
+@media only screen and (max-width:480px){
+    .right12{
+        margin-top: -100px;
+        margin-left: 105px;
+        color: white;
+}}
+@media only screen and (min-width:768px){
+    .right12{
+        margin-top: -100px;
+        margin-left: 180px;
+        color: white;
+}}
+@media only screen and (min-width:992px){
+    .right12{
+       margin-top: -140px;
+       margin-left: 235px;
+       color: white;
+}}
+@media only screen and (min-width:1200px){
+    .right12{
+       margin-top: -180px;
+       margin-left: 270px;
+       color: white;
+}}
+
+
+/* right >h4 */
+@media only screen and (min-width:480px){
+.right12 > h4{
+    font-size: 12px;
+    font-weight: 600;
+    margin-left: -50px;
+    margin-right: -50px;
+}}
+@media only screen and (max-width:480px){
+    .right12 > h4{
+       font-size: 12px;
+       font-weight: 600;
+       margin-left: -50px;
+       margin-right: -50px;
+}}
+@media only screen and (min-width:768px){
+    .right12 > h4{
+        font-size: 14px;
+        font-weight: 600;
+        margin-left: -50px;
+        margin-right: -95px;
+        margin-top: -30px;
+}}  
+@media only screen and (min-width:992px){
+    .right12 > h4{
+       font-size: 15px;
+       font-weight: 600;
+       margin-right:-100px
+}}  
+@media only screen and (min-width:1200px){
+    .right12 > h4{
+       font-size: 17px;
+       font-weight: 600;
+       margin-right:-150px;
+       margin-top:30px;
+}} 
+
+
+/* right12 > p */
+@media only screen and (min-width:480px){
+.right12 > p {
+        font-weight: 400;
+        font-size: 10px;
+        margin-left: -45px;
+        margin-right: -40px;
+}}
+@media only screen and (max-width:480px){
+    .right12 > p {
+        font-weight: 400;
+        font-size: 10px;
+        margin-left: -40px;
+        margin-right: -40px;
+}}
+@media only screen and (min-width:768px){
+    .right12 > p {
+        font-weight: 400;
+        font-size: 12px;
+        margin-left: -45px;
+        margin-right: -85px;
+    }}
+@media only screen and (min-width:992px){
+    .right12 > p {
+        font-weight: 400;
+        margin-right:-100px;
+        font-size: 13px;
+        margin-left: -45px;
+}}
+@media only screen and (min-width:1200px){
+    .right12 > p {
+        font-weight: 400;
+        margin-right:-165px;
+        margin-left: -45px;
+}}
+
+
+/* right13 */
+@media only screen and (min-width:480px){
+.right13{
+    border: 1px solid black;
+        padding:auto 100px;
+        width: 110px;
+        margin-left: 30px;
+      
+        background-color: black;
+        border-radius: 70px;
+        height: 110px;
+        opacity: 0.7;
+}}
+@media only screen and (max-width:480px){
+    .right13{
+        border: 1px solid black;
+        padding:auto 100px;
+        width: 110px;
+        margin-left: 30px;
+        background-color: black;
+        border-radius: 70px;
+        height: 110px;
+        opacity: 0.7;
+}}
+@media only screen and (min-width:768px){
+    .right13{
+        border: 1px solid black;
+        padding:auto 100px;
+        width: 170px;
+        margin-left: 80px;
+        background-color: black;
+        border-radius: 85px;
+        height: 170px;
+        opacity: 0.7;
+}}
+@media only screen and (min-width:992px){
+    .right13{
+        border: 1px solid black;
+        padding:auto 100px;
+        width: 230px;
+        margin-left: 105px;
+        background-color: black;
+        border-radius: 115px;
+        height: 230px;
+        opacity: 0.7;
+}}
+@media only screen and (min-width:1200px){
+    .right13{
+        border: 1px solid black;
+        padding:auto 100px;
+        width: 250px;
+        margin-left: 140px;
+        background-color: black;
+        border-radius: 200px;
+        height: 250px;
+        opacity: 0.7;
+}}
+
+
+/* right > h4 */
+ @media only screen and (min-width:480px){
+.right13 > h4{
+            margin-top: 40px;
+            font-size: 12px;
+            color: white;
+            font-weight: 700;
+            margin-left: 20px;
+}}
+@media only screen and (max-width:480px){
+ .right13 > h4{
+            margin-top: 40px;
+            font-size: 12px;
+            color: white;
+            font-weight: 500;
+            margin-left: 20px;
+}}
+@media only screen and (min-width:768px){
+    .right13 > h4{
+            margin-top: 73px;
+            font-size: 12px;
+            color: white;
+            font-weight: 700;
+}}
+@media only screen and (min-width:992px){
+    .right13 > h4{
+        margin-top: 100px;
+        color: white;
+        font-size: 15px;
+}}
+@media only screen and (min-width:1200px){
+    .right13 > h4{
+        margin-top: 100px;
+        color: white;
+        font-size: 17px;
+}}
+
+
+
+/*for the barber.js  */
+/* right 14 */
+@media only screen and (min-width:480px){
+    .right14{
+        background-color: rgb(199, 146, 68);
+        min-height: 640px;
+}}
+@media only screen and (max-width:480px){
+        .right14{
+           background-color: rgb(199, 146, 68);
+            min-height: 320px;
+}}
+@media only screen and (min-width:768px){
+    .right14{
+        background-color: rgb(199, 146, 68);
+        min-height: 640px;
+    }
+}
+@media only screenn and (min-width:992px){
+    .right14{
+        background-color: rgb(199, 146, 68);
+        min-height: 640px;
+}}
+@media only screen and (min-width:1200px){
+    .right14{
+        background-color: rgb(199, 146, 68);
+        min-height: 640px;
+}}
+
+
+/* right15 */
+@media only screen and (min-width:480px){
+    .right15 {
+     margin-top: 120px;
+}}
+@media only screen and (max-width:480px){
+    .right15 {
+     margin-top: 100px;
+}}
+@media only screen and (min-width:768px){
+    .right15 {
+     margin-top: 140px;
+}}
+@media only screen and (min-width:992px){
+    .right15 {
+     margin-top: 160px;
+}}
+@media only screen and (min-width:1200px){
+    .right15 {
+     margin-top: 180px;
+}}    
+
+
+/* right15 > h1 */
+@media only screen and (min-width:480px){
+    .right15 > h1 {
+     font-weight: 600;
+     font-size:40px;
+     text-align: center;
+}}
+@media only screen and (max-width:480px){
+    .right15 > h1 {
+        font-weight: 600;
+        font-size:40px;
+        text-align: center;
+}}
+@media only screen and (min-width:768px){
+    .right15 > h1 {
+     font-weight: 600;
+     font-size: 40px;
+}}
+@media only screen and (min-width:992px){
+    .right15 > h1 {
+     font-weight: 600;
+     font-size: 45px;
+}} 
+@media only screen and (min-width:1200px){
+    .right15 > h1 {
+     font-weight: 600;
+}}
+
+
+/* right15 > p */
+ @media only screen and (min-width:480px){
+    .right15 > p {
+        font-size: 22.5px;
+        font-weight: 300;
+        color: darkred;
+        text-align: center;
+}}        
+@media only screen and (max-width:480px){
+        .right15 > p {
+            font-size: 20px;
+            font-weight: 300;
+            color: darkred;
+            text-align: center;
+}}   
+@media only screen and (min-width:768px){
+    .right15 > p {
+        font-size: 25px;
+        font-weight: 300;
+        color: darkred; 
+    }
+}     
+@media only screen and (min-width:992px){
+    .right15 > p {
+        font-size: 27.5px;
+        font-weight: 300;
+        color: darkred;
+}}            
+@media only screen and (min-width:1200px){
+    .right15 > p {
+        font-size: 30px;
+        font-weight: 300;
+        color: darkred;
+}}        
+
+
+/* right16 */
+@media only screen and (min-width:480px){
+.right16{
+      padding:auto 1px;
+      width: 112px;
+      margin-left: 65px;
+     height: 180px;  
+}}
+@media only screen and (max-width:480px){
+    .right16{
+      padding:auto 4px;
+      width: 110px;
+      margin-left: 48px;
+     height: 200px;
+}}
+@media only screen and (min-width:768px){
+    .right16{
+        padding:auto 1px;
+      width: 170px;
+      margin-left: 83px;
+     height: 270px; 
+}}
+@media only screen and (min-width:992px){
+    .right16{
+        padding:auto 10px;
+        width: 230px;
+        margin-left: 110px;
+        height: 270px;
+}}
+@media only screen and (min-width:1200px){
+    .right16{
+        padding:auto 10px;
+        width: 250px;
+        margin-left: 130px;
+        height: 350px;
+}}
+
+
+/*right17 */
+@media only screen and (min-width:480px){
+    .right17 {
+        margin-top: 75px;
+        margin-bottom: 100px;
+}}
+@media only screen and (max-width:600px){
+        .right17 {
+            margin-top: 25px;
+            margin-bottom: 75px;
+}}
+@media only screen and (min-width:768px){
+    .right17 {
+        margin-top: 100px;
+        margin-bottom: 125px;
+}}
+@media only screen and (min-width:992px){
+    .right17 {
+        margin-top: 125px;
+        margin-bottom: 175px;
+}} 
+@media only screen and (min-width:1200px){
+    .right17 {
+        margin-top: 150px;
+        margin-bottom: 200px;
+}}   
+
+
+
+/* right18 */
+@media only screen and (min-width:480px){
+.right18{
+    margin-top: -10px;
+    margin-left: 175px;
+}}
+@media only screen and (max-width:480px){
+    .right18{
+        margin-top: -10px;
+        margin-left: 120px;
+}}
+@media only screen and (min-width:768px){
+    .right18{
+        margin-top: -10px;
+        margin-left: 140px;
+    }}
+@media only screen and (min-width:992px){
+    .right18{
+        margin-top: -10px;
+        margin-left: 180px;
+}}
+@media only screen and (min-width:1200px){
+    .right18{
+        margin-top: -10px;
+        margin-left: 220px;
+}}
+
+
+/* right18 > h4 */
+@media only screen and (min-width:480px){
+    .right18 > h4 {
+       color:black;
+        font-weight: 700;
+        font-size: 12px;
+        margin-left: -100px;
+        margin-right:-140px;
+}}
+@media only screen and (max-width:480px){
+        .right18 > h4 {
+            color:black;
+            font-weight: 700;
+            font-size: 12px;
+            margin-left: -60px;
+            margin-right: -60px;
+}}
+@media only screen and (min-width:768px){
+    .right18 > h4 {
+       color:black;
+        font-weight: 700;
+        font-size: 14px;
+        margin-left: -20px;
+}}
+@media only screen and (min-width:992px){
+    .right18 > h4 {
+       color:black;
+        font-weight: 700;
+        font-size: 16px;
+        margin-left: -20px;
+}}
+@media only screen and (min-width:1200px){
+    .right18 > h4 {
+       color:black;
+        font-weight: 700;
+        font-size: 18px;
+        margin-left: -20px;
+}}
+
+
+/* right18 > p */
+@media only screen and (min-width:480px){
+.right18 > p {
+    font-weight: 700;
+    font-size: 10px;
+    margin-left: -105px;
+}}
+@media only screen and (max-width:480px){
+    .right18 > p {
+        font-weight: 700;
+        font-size: 10px;
+        margin-left: -70px;
+        margin-right: -180px;
+        padding-left: 2px;
+}}
+@media only screen and (min-width:768px){
+    .right18 > p {
+    font-weight: 700;
+    font-size: 12px;
+    margin-left: -28px;
+}}
+@media only screen and (min-width:992px){
+    .right18 > p {
+        font-weight: 700;
+        font-size: 14px;
+        margin-left: -42px;
+}}
+@media only screen and (min-width:1200px){
+    .right18 > p {
+        font-weight: 700;
+        font-size: 16px;
+        margin-left: -48px;
+}}
+
+/*right60 */
+@media only screen and (max-width:480px){
+    .right60{
+        margin-left: -10px;
+}}
+@media only screen and (min-width:480px){
+    .right60{
+        margin-left: -10px;
+}}
+
+
+
+
+/*ends here */
+/* for the location */
+/* right21 */
+@media only screen and (min-width:480px){
+    .right21 {
+        background-color: darkred;
+        min-height: 640px;
+}}
+@media only screen and (max-width:480px){
+        .right21 {
+            background-color: darkred;
+            min-height: 320px;
+            opacity: 0.9;
+}}
+@media only screen and (min-width:768px){
+    .right21 {
+        background-color:darkred;
+        min-height: 640px;
+}}
+@media only screen and (min-width:992px){
+    .right21 {
+        background-color: darkred;
+        min-height: 640px;
+}}
+@media only screen and (min-width:1200px){
+    .right21 {
+        background-color:darkred;
+        min-height: 640px;
+}}
+
+
+/* right22 > h1 */
+@media only screen and (min-width:480px){
+    .right22 > h1 {
+        margin-top: 100px;
+        font-weight: 800;
+        font-size: 40px;
+        text-align: center;
+}}
+@media only screen and (max-width:480px){
+    .right22 > h1 {
+        margin-top: 75px;
+        font-weight: 800;
+        font-size: 35px;
+        text-align: center;
+}}
+@media only screen and (min-width:768px){
+    .right22 > h1 {
+        margin-top: 120px;
+        font-weight: 800;
+        font-size: 45px;
+        text-align: center;
+}}
+@media only screen and (min-width:992px){
+    .right22 > h1 {
+        margin-top: 140px;
+        font-weight: 800;
+        font-size: 50px;
+        text-align: center;
+}}
+@media only screen and (min-width:1200px){
+    .right22 > h1 {
+        margin-top: 160px;
+        font-weight: 800;
+        text-align: center;
+}}
+
+
+/* right22 > h7 */
+@media only screen and (min-width:480px){
+    .right22 > h7 {
+       color: gray;
+        font-weight: 600;
+        font-size: 16px;
+        text-align: center;
+        margin-left: 110px;
+}}
+@media only screen and (max-width:480px){
+        .right22 > h7 {
+            color: gray;
+            font-weight: 600;
+            font-size: 14px;
+            text-align: center;
+            margin-left: 130px;
+}}
+@media only screen and (min-width:768px){
+    .right22 > h7 {
+       color: gray;
+        font-weight: 600;
+        font-size: 16px;
+        text-align: center;
+        margin-left: 240px;
+}}
+@media only screen and (min-width:992px){
+    .right22 > h7 {
+       color: gray;
+        font-weight: 600;
+        font-size: 18px;
+        text-align: center;
+        margin-left: 350px;
+}}
+@media only screen and (min-width:1200px){
+    .right22 > h7 {
+       color: gray;
+        font-weight: 600;
+        margin-left: 450px;
+}}
+
+
+/* right25 */
+@media only screen and (min-width:480px){
+    .right25 {
+        margin-top: -100px;
+        margin-left: 60px;
+        color: white;
+}}
+@media only screen and (max-width:480px){
+    .right25 {
+             margin-top: -100px;
+             margin-left: 40px;
+             color: white;
+}}
+@media only screen and (min-width:768px){
+    .right25 {
+            margin-top: -130px;
+            margin-left: 130px;
+            color: white;
+}}
+@media only screen and (min-width:992px){
+    .right25 {
+            margin-top: -150px;
+            margin-left: 180px;
+            color: white;
+}}
+@media only screen and (min-width:1200px){
+    .right25 {
+            margin-top: -165px;
+            margin-left: 225px;
+            color: white;
+}}
+
+                
+/* right25 > h4 */
+@media only screen and (min-width:480px){
+        .right25 > h4 {
+               font-weight: 600;
+               font-size: 14px;
+} }
+@media only screen and (max-width:480px){
+        .right25 > h4 {
+                font-weight: 600;
+                font-size: 12px;
+}}
+@media only screen and (min-width:768px){
+    .right25 > h4 {
+           font-weight: 600;
+           font-size: 16px;
+} }
+@media only screen and (min-width:992px){
+    .right25 > h4 {
+           font-weight: 600;
+           font-size: 18px;
+}}
+@media only screen and (min-width:1200px){
+    .right25 > h4 {
+           font-weight: 600;
+           font-size: 20px;
+}}
+    
+/* right26 */
+@media only screen and (min-width:480px){
+            .right26{
+               margin-top: 90px;
+               margin-left: 50px;
+ }}
+@media only screen and (max-width:480px){
+            .right26{
+                margin-top: 90px;
+                margin-left: 60px;
+ }}
+ @media only screen and (min-width:768px){
+    .right26{
+       margin-top: 100px;
+       margin-left: 120px;
+}}
+ @media only screen and (min-width:992px){
+    .right26{
+       margin-top: 120px;
+       margin-left: 170px;
+}}
+@media only screen and (min-width:1200px){
+    .right26{
+       margin-top: 140px;
+       margin-left: 238px;
+}}
+
+
+/* right26 > h3 */
+@media only screen and (min-width:480px){
+            .right26 > h3 {
+                    font-size: 14px;
+                    font-weight: 700;
+                    color:white;
+                    margin-left: 5px;
+} }
+@media only screen and (max-width:480px){
+            .right26 > h3 {
+                    font-size: 12px;
+                    font-weight: 600;
+                    color: white;
+} }
+@media only screen and (min-width:768px){
+    .right26 > h3 {
+            font-size: 16px;
+            font-weight: 700;
+            color: white;
+} }
+@media only screen and (min-width:992px){
+    .right26 > h3 {
+            font-size: 18px;
+            font-weight: 700;
+            color: white;
+} }
+@media only screen and (min-width:1200px){
+    .right26 > h3 {
+            font-size: 12px;
+            font-weight: 700;
+            color: white;
+} }
+
+
+/* right26 > h4 */           
+@media only screen and (min-width:480px){
+            .right26 > h4 {
+                    margin-left: 0px;
+                    margin-right: -125px;
+                    font-size: 14px;
+                    color: white;
+                    font-weight: 400;
+                    margin-top: 10px;
+} }
+@media only screen and (max-width:480px){
+             .right26 > h4 {
+                    margin-left: 0px;
+                    margin-right: -125px;
+                    font-size: 12px;
+                    color: white;
+                    font-weight: 400;
+                    margin-top: 10px;
+ }}
+ @media only screen and (min-width:768px){
+    .right26 > h4 {
+            margin-left: 5px;
+            margin-right: -125px;
+            font-size: 16px;
+            color:white;
+            font-weight: 400;
+            margin-top: 10px;
+} }
+ @media only screen and (min-width:992px){
+    .right26 > h4 {
+            margin-left: 5px;
+            margin-right: -125px;
+            font-size: 18px;
+            color: white;
+            font-weight: 400;
+            margin-top: 10px;
+} }
+@media only screen and (min-width:1200px){
+    .right26 > h4 {
+            margin-left: 3px;
+            margin-right: -125px;
+            font-size: 14px;
+            color: white;
+            font-weight: 400;
+            margin-top: 10px;
+} } 
+ 
+ 
+/* right26 > p */
+ @media only screen and (min-width:480px){
+            .right26 > p {
+                    margin-left: 0px;
+                    margin-right: -125px;
+                    font-size: 14px;
+                    color: white;
+                    font-weight: 400;
+                    padding-bottom: 30px;
+                    
+} }
+@media only screen and (max-width:480px){
+            .right26 > p {
+                        margin-left: 0px;
+                        margin-right: -125px;
+                        font-size: 12px;
+                        color: white;
+                        font-weight: 400;
+                        padding-bottom: 30px;
+}}
+@media only screen and (min-width:768px){
+    .right26 > p {
+            margin-left: 5px;
+            margin-right: -125px;
+            font-size: 16px;
+            color: white;
+            font-weight: 400;
+            padding-bottom: 30px;
+            
+} }
+@media only screen and (min-width:992px){
+    .right26 > p {
+            margin-left: 5px;
+            margin-right: -125px;
+            font-size: 14px;
+            color: white;
+            font-weight: 400;
+            padding-bottom: 30px;
+          
+} }
+@media only screen and (min-width:1200px){
+    .right26 > p {
+            margin-left: -3px;
+            margin-right: -145px;
+            font-size: 14px;
+            color: white;
+            font-weight: 400;
+            padding-bottom: 5px;
+            border-bottom: dotted white 2px;
+} }
+
+               
+/* right27 > h4 */
+@media only screen and (min-width:480px){
+            .right27 > h4 {
+                    font-size: 10px;
+                    font-weight: 700;
+                    color:white;
+                    margin-left: 40px;
+                    margin-right: -175px;
+                    margin-top: -20px;
+}}
+@media only screen and (max-width:480px){
+             .right27 > h4 {
+                    font-size: 10px;
+                    font-weight: 700;
+                    color: white;
+                    margin-left: 50px;
+                    margin-right: -175px;
+                    margin-top: -15px;
+}}
+@media only screen and (min-width:768px){
+    .right27 > h4 {
+            font-size: 12px;
+            font-weight: 700;
+            color: white;
+            margin-left: 115px;
+            margin-right: -175px;
+}}
+@media only screen and (min-width:992px){
+    .right27 > h4 {
+            font-size: 12px;
+            font-weight: 700;
+            color:white;
+            margin-left: 160px;
+            margin-right: -175px;
+}}
+@media only screen and (min-width:1200px){
+    .right27 > h4 {
+            font-size: 12px;
+            font-weight: 700;
+            color: white;
+            margin-left: 240px;
+            margin-right: -175px;
+            margin-top: 15px;
+}}             
+
+
+/* right27 > p */
+@media only screen and (min-width:480px){
+        .right27 > p {
+                 font-size: 10.5px;
+                 color:white;
+                 font-weight: 400;
+                 margin-top: 10px;
+                 margin-right: -300px;
+                 margin-left: 35px;
+}}
+ @media only screen and (max-width:480px){
+            .right27 > p {
+                font-size: 10px;
+                color: white;
+                font-weight: 400;
+                margin-top: 10px;
+                margin-right: -400px;
+                margin-left: 50px;
+}}
+@media only screen and (min-width:768px){
+    .right27 > p {
+             font-size: 14px;
+             color: white;
+             font-weight: 400;
+             margin-top: 10px;
+             margin-right: -300px;
+             margin-left: 115px;
+}}
+@media only screen and (min-width:992px){
+    .right27 > p {
+             font-size: 14px;
+             color: white;
+             font-weight: 400;
+             margin-top: 10px;
+             margin-right: -380px;
+             margin-left: 150px;
+             
+}}
+@media only screen and (min-width:1200px){
+    .right27 > p {
+             font-size: 14px;
+             color: white;
+             font-weight: 400;
+             margin-top: 10px;
+             margin-right: -440px;
+             margin-left: 240px;
+}}
+
+
+/* right55 */
+@media only screen and (min-width:480px){
+        .right55 {
+                margin-left:-5px;
+                
+ }}
+@media only screen and (max-width:480px){
+         .right55 {
+                 margin-left:-5px;
+}}
+@media only screen and (min-width:768px){
+    .right55 {
+            margin-left:-5px;
+}}
+@media only screen and (min-width:992px){
+    .right55 {
+            margin-left:5px;
+}}
+@media only screen and (min-width:1200px){
+    .right55 {
+            margin-left:-5px;
+}}
+
+
+/* right56 */
+ @media only screen and (min-width:480px){
+                        .right56 {
+                            margin-left:-14px;
+}}
+@media only screen and (max-width:480px){
+                        .right56 {
+                            margin-left:-5px;
+}}
+@media only screen and (min-width:768px){
+    .right56 {
+        margin-left:-3px;
+}}
+@media only screen and (min-width:992px){
+    .right56 {
+        margin-left:5px;
+}}
+@media only screen and (min-width:1200px){
+    .right56 {
+        margin-left:-8px;
+}}
+
+        
+
+ /* for contact.js */ 
+ /* right23 */  
+ @media only screen and (min-width:480px){
+     .right23 {
+    background-color: lightgray;
+    min-height: 640px;
+}}    
+@media only screen and (max-width:480px){
+    .right23 {
+   background-color: lightgray;
+   min-height: 320px;
+   
+}}
+@media only screen and (min-width:768px){
+    .right23 {
+   background-color: lightgray;
+   min-height: 640px;
+}}   
+@media only screen and (min-width:992px){
+    .right23 {
+   background-color: lightgray;
+   min-height: 640px;
+ 
+}}
+@media only screen and (min-width:1200px){
+    .right23 {
+   background-color: lightgray;
+   min-height: 640px;
+}}        
+
+
+/* right24 > h1 */
+@media only screen and (min-width:480px){
+    .right24 > h1 {
+    margin-top: 100px;
+    font-size:37.5px;
+    font-weight: 600;
+    text-align: center;
+}}
+@media only screen and (max-width:480px){
+    .right24 > h1 {
+    margin-top: 95px;
+    font-weight: 600;
+    font-size: 35px;
+    text-align: center;
+}}
+@media only screen and (min-width:768px){
+    .right24 > h1 {
+    margin-top: 110px;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+}}
+@media only screen and (min-width:992px){
+    .right24 > h1 {
+    margin-top: 120px;
+    font-weight: 600;
+    font-size: 45px;
+    text-align: center;
+}}
+@media only screen and (min-width:1200px){
+    .right24 > h1 {
+    margin-top: 140px;
+    font-weight: 600;
+    text-align: center;
+}}
+
+
+/* right24 > p */
+@media only screen and (min-width:480px){
+    .right24 > p {
+    margin-top: 25px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 50px;
+    text-align: center;
+}}
+@media only screen and (max-width:480px){
+    .right24 > p {
+    margin-top: 15px;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 50px;
+    text-align: center;
+}}
+@media only screen and (min-width:768px){
+    .right24 > p {
+    margin-top: 27.5px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 50px;
+    text-align: center;
+}}
+@media only screen and (min-width:992px){
+    .right24 > p {
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 50px;
+    text-align: center;
+}}
+@media only screen and (min-width:1200px){
+    .right24 > p {
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 50px;
+    text-align: center;
+}}
+
+
+/* right44 */
+ .right44{
+    border: black solid 2px;
+    border-radius: 50px;
+    padding:15px;
+    margin-right: 15px;
+    width: 60px;
+    height: 60px;
+    
+ }
+ /* right61 */
+ @media only screen and (max-width:480px){
+    .right61{
+        margin-left: 100px;
+}}
+@media only screen and (min-width:480px){
+    .right61{
+        margin-left: 115px;
+}}
+@media only screen and (min-width:768px){
+    .right61{
+        margin-left: 245px;
+}}
+@media only screen and (min-width:992px){
+    .right61{
+        margin-left: 365px;
+}}
+@media only screen and (min-width:1200px){
+    .right61{
+        margin-left: 460px;
+}}
+ /* ends here */
+
+
+
+
+/* right49 */
+@media only screen and (min-width:480px){
+    .right49{
+
+        margin-left: -15px;
+        margin-top:15px;
+        margin-bottom:30px;
+ }}
+ @media only screen and (max-width:480px){
+    .right49{
+
+    margin-left: -15px;
+    margin-top:15px;
+    margin-bottom:50px;
+
+ }}
+ @media only screen and (min-width:768px){
+    .right49{
+
+        margin-left: -16px;
+        margin-top:15px;
+        margin-bottom:30px;
+ }}
+@media only screen and (min-width:992px){
+    .right49{
+
+        margin-left: -12px;
+        margin-top:15px;
+        margin-bottom:30px;
+ }}
+ @media only screen and (min-width:1200px){
+    .right49{
+
+    margin-left: -100px;
+ }}
+
+    
+/*end */        
+
+
+
+/* for the appointment.js */
+/* right19 */
+@media only screen and (min-width:480px){
+    .right19{
+        background-color: #f6f6f6;
+        min-height: 640px;
+}}
+@media only screen and (max-width:480px){
+        .right19{
+          background-color: #f6f6f6;
+          min-height: 320px;
+}}
+@media only screen and (min-width:768px){
+    
+        .right19{
+            background-color: #f6f6f6;
+            min-height: 640px;
+}}
+
+@media only screen and (min-width:992px){
+    .right19{
+        background-color: #f6f6f6;
+        min-height: 640px;
+}}
+@media only screen and (min-width:1200px){
+    .right19{
+        background-color:#f6f6f6;
+        min-height: 640px;
+}}
+
+
+/* right20 > h1 */
+@media only screen and (min-width:480px){
+    .right20 > h1 {
+        margin-top: 37.5px;
+        font-weight: 800;
+        font-size:45px;
+        text-align: center;
+}}
+@media only screen and (max-width:480px){
+        .right20 > h1 {
+             margin-top: 25px;
+            font-weight: 800;
+            font-size: 40px;
+            text-align: center;
+}}
+@media only screen and (min-width:768px){
+    .right20 > h1 {
+        margin-top: 45px;
+        font-weight: 800;
+        font-size:50px;
+        text-align: center;
+}}
+@media only screen and (min-width:992px){
+    .right20 > h1 {
+        margin-top: 50px;
+        font-weight: 800;
+        font-size: 50px;
+        text-align: center;
+}}   
+@media only screen and (min-width:1200px){
+    .right20 > h1 {
+        margin-top: 50px;
+        font-weight: 800;
+        text-align: center;
+}}
+
+
+/* right20 > h7 */
+@media only screen and (max-width:480px){
+    .right20 > h7 {
+        color: brown;
+        font-weight: 600;
+        margin-left: 155px;
+}}
+@media only screen and (min-width:480px){
+    .right20 > h7 {
+        color: brown;
+        font-weight: 600;
+        text-align: center;
+        margin-left: 155px;
+}}
+@media only screen and (min-width:768px){
+    .right20 > h7 {
+        color: brown;
+        font-weight: 600;
+        text-align: center;
+        margin-left: 275px;
+}}
+@media only screen and (min-width:992px){
+    .right20 > h7 {
+        color: brown;
+        font-weight: 600;
+        margin-left: 400px;
+}}
+@media only screen and (min-width:1200px){
+    .right20 > h7 {
+        color: brown;
+        font-weight: 600;
+        margin-left: 500px;
+}}
+
+
+/*ends here */
+
+/* right20 > p */
+@media only screen and (min-width:480px){
+    .right20 > p {
+        margin-top: 22.5px;
+        font-size: 14px;
+        font-weight: 500;
+}}
+@media only screen and (max-width:480px){
+    .right20 > p {
+        margin-top: 20px;
+        font-size: 12px;
+        font-weight: 500;
+}}
+@media only screen and (min-width:768px){
+    .right20 > p {
+        margin-top: 25px;
+        font-size: 18px;
+        font-weight: 500;
+}}
+@media only screen and (min-width:992px){
+    .right20 > p {
+        margin-top: 30px;
+        font-size: 20px;
+        font-weight: 500;
+        text-align: center;
+}}
+@media only screen and (min-width:1200px){
+    .right20 > p {
+        margin-top: 30px;
+        font-size: 25px;
+        font-weight: 500;
+        text-align: center;
+}}
+
+
+/* right28 */
+ @media only screen and (min-width:480px){
+    .right28 {
+        margin: 37.5px auto;
+        border:solid grey 1px;
+        max-width: 750px;
+        height: 800px;
+        margin-bottom: 150px;
+        border-radius: 6px;
+}}
+ @media only screen and (max-width:480px){
+        .right28 {
+           margin: 25px auto;
+            border:solid grey 1px;
+            max-width: 750px;
+            height: 800px;
+            margin-bottom: 100px;
+            border-radius: 6px;
+}}
+@media only screen and (min-width:768px){
+    .right28 {
+        margin: 45px auto;
+        border:solid grey 1px;
+        max-width: 750px;
+        height: 800px;
+        margin-bottom: 175px;
+        border-radius: 6px;
+}}
+@media only screen and (min-width:992px){
+    .right28{
+    margin: 50px auto;
+    border:solid grey 1px;
+    max-width: 750px;
+    height: 800px;
+    margin-bottom: 200px;
+    border-radius: 6px;
+}}
+@media only screen and (min-width:1200px){
+    .right28{
+    margin: 50px auto;
+    border:solid grey 1px;
+    max-width: 750px;
+    height: 800px;
+    margin-bottom: 200px;
+    border-radius: 6px;
+}}
+
+/* right28 > form */
+.right28 > form{
+padding: 80px 50px;
+}
+
+
+/* right29 */
+@media only screen and (min-width:480px){
+   .right29 {
+    margin-top: 1px;
+}}
+@media only screen and (max-width:480px){
+.right29 {
+ margin-top: 1px;
+}}
+@media only screen and (min-width:768px){
+    .right29 {
+     margin-top: 10px;
+ }}
+
+@media only screen and (min-width:992px){
+    .right29 {
+     margin-top: 20px;
+ }}
+@media only screen and (min-width:1200px){
+    .right29 {
+     margin-top: 30px;
+ }}
+
+
+ /* right30 */
+@media only screen and (min-width:480px){
+    .right30 {
+       margin-top: 1px;
+}}
+@media only screen and (max-width:480px){
+    .right30 {
+      margin-top: 1px;
+}}
+@media only screen and (min-width:768px){
+    .right30 {
+       margin-top: 10px;
+}}
+@media only screen and (min-width:992px){
+    .right30 {
+       margin-top: 20px;
+}}
+@media only screen and (min-width:1200px){
+    .right30 {
+       margin-top: 30px;
+}}
+
+
+/* right31 */
+@media only screen and (min-width:480px){
+    .right31{
+       margin-top: 1px;
+}}
+@media only screen and (max-width:480px){
+    .right31{
+     margin-top: 1px;
+}}
+@media only screen and (min-width:768px){
+    .right31{
+       margin-top: 10px;
+}}
+@media only screen and (min-width:992px){
+    .right31{
+       margin-top: 20px;
+}}
+@media only screen and (min-width:1200px){
+    .right31{
+       margin-top: 30px;
+}}
+
+
+/* right32 */
+@media only screen and (min-width:480px){
+   .right32{
+     margin-top: 1px;
+}}
+@media only screen and (max-width:480px){
+   .right32{
+    margin-top: 1px;
+}}
+@media only screen and (min-width:768px){
+    .right32{
+      margin-top: 10px;
+ }}
+@media only screen and (min-width:992px){
+    .right32{
+      margin-top: 20px;
+}}
+ @media only screen and (min-width:1200px){
+    .right32{
+      margin-top: 30px;
+}}
+
+
+/* right33 */
+@media only screen and (min-width:480px){
+   .right33{
+     margin-top: 1px;
+     margin-bottom: 1px;
+}}
+@media only screen and (max-width:480px){
+  .right33{
+    margin-top: 1px;
+    margin-bottom: 1px;
+}}
+@media only screen and (min-width:768px){
+    .right33{
+      margin-top: 10px;
+      margin-bottom: 50px;
+ }}
+@media only screen and (min-width:992px){
+    .right33{
+      margin-top: 20px;
+      margin-bottom: 50px;
+ }}
+ @media only screen and (min-width:1200){
+    .right33{
+      margin-top: 30px;
+      margin-bottom: 50px;
+ }}
+
+/* right34 */
+@media only screen and (min-width:480px){
+  .right34{
+       margin-top: 10px;
+       width: 300px;
+}}
+@media only screen and (max-width:480px){
+  .right34{
+      margin-top: 10px;
+       width: 300px;
+}}
+@media only screen and (min-width:768px){
+    .right34{
+         margin-top: 50px;
+         width: 400px;
+         margin-left: 100px;
+  }}
+@media only screen and (min-width:992px){
+    .right34{
+         margin-top: 60px;
+         width: 400px;
+         margin-left: 130px;
+}}
+@media only screen and (min-width:1200px){
+    .right34{
+         margin-top: 30px;
+         width: 400px;
+}}
+
+/* right35 */
+@media only screen and (min-width:480px){
+  .right35{
+    margin-left: 0px;
+}}
+@media only screen and (max-width:480px){
+  .right35{
+    margin-left: 0px;
+}}
+@media only screen and (min-width:768px){
+    .right35{
+      margin-left: 0px;
+  }}
+@media only screen and (min-width:992px){
+    .right35{
+      margin-left: 0px;
+}}
+@media only screen and (min-width:1200px){
+    .right35{
+      margin-left: 0px;
+}}
+
+
+/* right36 */
+@media only screen and (min-width:480px){
+  .right36{
+    margin-left: 0px;
+}}
+@media only screen and (max-width:480px){
+  .right36{
+    margin-left: 0px;
+}}
+@media only screen and (min-width:768px){
+    .right36{
+      margin-left: 0px;
+  }}
+@media only screen and (min-width:992px){
+    .right36{
+      margin-left: 0px;
+}}
+@media only screen and (min-width:1200px){
+    .right36{
+      margin-left: 0px;
+}}
+
+
+/* right37 */
+@media only screen and (min-width:480px){
+   .right37{
+       margin-left: 0px;
+}}
+@media only screen and (max-width:480px){
+  .right37{
+     margin-left: 0px;
+}}
+@media only screen and (min-width:768px){
+    .right37{
+        margin-left: 0px;
+ }}
+@media only screen and (min-width:992px){
+    .right37{
+        margin-left: 0px;
+ }}
+@media only screen and (min-width:1200px){
+    .right37{
+        margin-left: 0px;
+}}
+
+
+/* right38 */
+@media only screen and (min-width:480px){
+  .right38{
+      margin-left: 0px;
+}}
+@media only screen and (max-width:480px){
+  .right38{
+   margin-left: 0px;
+}}
+@media only screen and (min-width:768px){
+    .right38{
+        margin-left: 0px;
+  }}
+@media only screen and (min-width:992px){
+    .right38{
+        margin-left: 0px;
+}}
+@media only screen and (min-width:1200px){
+    .right38{
+        margin-left: 0px;
+}}
+
+/* right39 */
+@media only screen and (min-width:480px){
+ .right39{
+     margin-left: 0px;
+}}
+@media only screen and (max-width:480px){
+ .right39{
+    margin-left: 0px;
+}}
+@media only screen and (min-width:768px){
+    .right39{
+        margin-left: 0px;
+   }}
+@media only screen and (min-width:992px){
+    .right39{
+        margin-left: 0px;
+}}
+@media only screen and (min-width:1200px){
+    .right39{
+        margin-left: 0px;
+}}
+
+
+/* right40 */
+@media only screen and (min-width:480px){
+   .right40{
+     margin-left: 0px;
+}}
+@media only screen and (max-width:480px){
+  .right40{
+      margin-left: 0px;
+}}
+@media only screen and (min-width:768px){
+    .right40{
+      margin-left: 0px;
+ }}
+@media only screen and (min-width:992px){
+    .right40{
+      margin-left: 0px;
+ }}
+@media only screen and (min-width:1200px){
+    .right40{
+      margin-left: 0px;
+ }}
+
+
+
+/* right41 */
+@media only screen and (min-width:480px){
+  .right41{
+     margin-left: 0px;
+}}
+@media only screen and (max-width:480px){
+  .right41{
+   margin-left: 0px;
+}}
+@media only screen and (min-width:768px){
+    .right41{
+       margin-left: 0px;
+}}
+@media only screen and (min-width:992px){
+    .right41{
+       margin-left: 0px;
+}}
+@media only screen and (min-width:1200px){
+    .right41{
+       margin-left: 0px;
+}}
+
+
+/* right42 */
+@media only screen and (min-width:480px){
+  .right42{
+     margin-left: 0px;
+}}
+@media only screen and (max-width:480px){
+  .right42{
+     margin-left: 0px;
+}}
+@media only screen and (min-width:768px){
+    .right42{
+       margin-left: 0px;
+  }}
+@media only screen and (min-width:992px){
+    .right42{
+       margin-left: 0px;
+}}
+@media only screen and (min-width:1200px){
+    .right42{
+       margin-left: 0px;
+}}
+
+/* right43*/
+@media only screen and (max-width:600px){
+    .right43 {
+        margin-top: -60px;
+        margin-left: 290px;
+}}
+@media only screen and (min-width:600px){
+    .right43 {
+        margin-top: -60px;
+        margin-left: 290px;
+        margin-right: -90px;
+}}
+@media only screen and (min-width:768px){
+    .right43 {
+        margin-top: -60px;
+        margin-left: 265px;
+}}
+@media only screen and (min-width:992px){
+    .right43 {
+        margin-top: -60px;
+        margin-left: 295px;
+}}
+@media only screen and (min-width:1200px){
+    .right43 {
+        margin-top: -60px;
+        margin-left: 295px;
+}}
+
+
+/*end */
+
+
+
+
+
+/*for the pricing.js */
+/* right45 */
+@media only screen and (min-width:480px){
+    .right45 {
+        background-color:lightcoral;
+        min-height: 640px;
+}}
+@media only screen and (max-width:480px){
+        .right45 {
+            background-color:lightcoral;
+            min-height: 320px;
+}}
+@media only screen and (min-width:768px){
+    .right45 {
+        background-color:lightcoral;
+        min-height: 640px;
+}} 
+@media only screen and (min-width:992px){
+    .right45 {
+        background-color:lightcoral;
+        min-height: 640px;
+}} 
+@media only screen and (min-width:1200px){
+    .right45 {
+        background-color:lightcoral;
+        min-height: 640px;
+}}
+
+
+/* right46 */
+@media only screen and (min-width:480px){
+    .right46 {
+      margin-top: 125px;
+}}
+@media only screen and (max-width:480px){
+        .right46 {
+           margin-top: 105px;
+}}
+@media only screen and (min-width:768px){
+    .right46 {
+      margin-top: 145px;
+}}
+@media only screen and (min-width:992px){
+    .right46 {
+      margin-top: 190px;
+}}
+@media only screen and (min-width:1200px){
+    .right46 {
+      margin-top: 220px;
+}}
+
+
+ /* right46 > h1 */ 
+@media only screen and (min-width:480px){
+    .right46  > h1 {
+       font-weight: 800;
+       font-size:45px;
+       text-align: center;
+}}
+@media only screen and (max-width:480px){
+        .right46  > h1 {
+            font-weight: 800;
+            font-size: 40px;
+            text-align: center;
+}}
+@media only screen and (min-width:768){
+    .right46  > h1 {
+        font-weight: 800;
+        font-size: 45px;
+        text-align: center;
+}}
+@media only screen and (min-width:992px){
+    .right46  > h1 {
+       font-weight: 800;
+       font-size:50px;
+       text-align: center;
+}}
+@media only screen and (min-width:1200px){
+    .right46  > h1 {
+        font-size: 55px;
+       font-weight: 800;
+       text-align: center;
+}}
+
+
+
+/* right46 > p */
+@media only screen and (min-width:480px){
+    .right46 > p {
+
+        font-size: 22.5px;
+        font-weight: 300;
+        color: darkred;
+        text-align: center;   
+}}
+@media only screen and (max-width:480px){
+        .right46 > p {
+    
+            font-size: 18px;
+            font-weight: 300;
+            color: darkred;
+            text-align: center;   
+}}
+@media only screen and (min-width:768px){
+    .right46 > p {
+
+        font-size: 26.5px;
+        font-weight: 300;
+        color: darkred;
+        text-align: center;   
+}}
+@media only screen and (min-width:992px){
+    .right46 > p {
+
+        font-size: 30.5px;
+        font-weight: 300;
+        color: darkred;   
+}}
+@media only screen and (min-width:1200px){
+    .right46 > p {
+
+        font-size: 35px;
+        font-weight: 300;
+        color: darkred;   
+}}
+
+
+/* right47 */
+@media only  screen and (min-width:480px){
+    .right47 {
+      margin-top: 60px;
+}}
+@media only  screen and (max-width:480px){
+    .right47 {
+     margin-top: 40px;
+}}
+@media only screen and (min-width:768px){
+    .right47 {
+      margin-top: 70px;
+}}
+@media only  screen and (min-width:992px){
+    .right47 {
+      margin-top: 75px;
+}}
+@media only  screen and (min-width:1200px){
+    .right47 {
+      margin-top: 80px;
+}}
+
+
+
+/* right48 */
+
+@media only screen and (max-width:480px){
+    .right48 {
+        margin: 80px auto;
+        max-width: 700px;
+}}
+@media only screen and (min-width:480px){
+    .right48 {
+        margin: 60px auto;
+        max-width: 700px;
+}}
+@media only screen and (min-width:768px){
+    .right48 {
+        margin: 40px auto;
+        max-width: 700px;
+}}
+@media only screen and (min-width:992px){
+    .right48 {
+        margin: 60px auto;
+        max-width: 700px;
+}}
+@media only screen and (min-width:1200px){
+    .right48 {
+        margin: 80px auto;
+        max-width: 700px;
+}}
+
+
+
+
+/* end */
+/* right3 */
+
+.right3{
+    overflow: hidden;
+}
+
+/* logo */
+@media only screen and (max-width:480px){
+    .logo{
+        margin-top: -85px;
+        margin-left: -172px;
+        width:650px;
+        height :240px;
+}}
+@media only screen and (min-width:480px){
+    .logo{
+        margin-top: -90px;
+        margin-left: -155px;
+        width:590px;
+        height :240px;
+}}
+@media only screen and (min-width:768px){
+    .logo{
+        margin-top: -90px;
+        margin-left: -170px;
+        width:590px;
+        height :220px;
+}}
+@media only screen and (min-width:992px){
+    .logo{
+        margin-top: -100px;
+        margin-left: -98px;
+        width:400px;
+        height :240px;
+}}
+@media only screen and (min-width:1200px){
+    .logo{
+        margin-top: -100px;
+        margin-left: -225px;
+        width:650px;
+        height :240px;
+}}
+
+
+/*contain*/
+@media only screen and (min-width:992px){
+    .contain{
+        margin-left: -100px;
+    }
+}
+@media only screen and (min-width:992px){
+    .contain{
+        margin-left: -110px;
+    }
+}
+/* ends here */
+
+
+/*right50 */
+
+@media only screen and (max-width:480px){
+    .right50{
+        margin-top: 30px;
+     margin-bottom: 10px;
+}}
+@media only screen and (min-width:480px){
+    .right50{
+        margin-top: -10px;
+     margin-bottom: 10px;
+}}
+@media only screen and (min-width:768px){
+    .right50{
+        margin-top: -160px;
+        margin-bottom: 0px;
+}}
+@media only screen and (min-width:992px){
+    .right50{
+        margin-top: -180px;
+     margin-bottom: 10px;
+}}
+@media only screen and (min-width:1200px){
+    .right50{
+        margin-top: -300px;
+       margin-left: -30px;
+}}
+
+/* ends here */
+
+
+/* right50 */
+@media only screen and (max-width:480px){
+    .right51{
+        margin-top: 30px;
+        margin-bottom: 10px;
+}}
+@media only screen and (min-width:480px){
+    .right51{
+        margin-top: 120px;
+     margin-bottom: 10px;
+}}
+@media only screen and (min-width:768px){
+    .right51{
+        margin-top: 150px;
+        margin-bottom: 10px;
+}}
+@media only screen and (min-width:992px){
+    .right51{
+        margin-top: 180px;
+     margin-bottom: 10px;
+}}
+@media only screen and (min-width:1200px){
+    .right51{
+        margin-top: 84px;
+       margin-left: -30px;
+}}
+/*ends here */
+
+
+/* right100 */
+@media only screen and (max-width:480px){
+    .right100{
+          min-width: 100px;
+          height: 600px;
+          margin-left: -490px;
+          margin-top: -220px;
+       
+}}
+@media only screen and (min-width:480px){
+    .right100{
+
+        min-width: 100px;
+        height: 600px;
+        margin-left: -470px;
+        margin-top: -130px;
+      
+}}
+@media only screen and (min-width:768px){
+    .right100{
+
+        min-width: 640px;
+        margin-left: -630px;
+        margin-top: -250px;
+        height: 800px;
+}}
+@media only screen and (min-width:992px){
+    .right100{
+
+        min-width: 640px;
+        height: 800px;
+        margin-left: -630px;
+        margin-top: -250px;
+}}
+@media only screen and (min-width:1200px){
+    .right100{
+
+        min-width: 640px;
+        height: 1100px;
+        margin-left: -850px;
+        margin-top: -390px;
+}}
+
+/* ends here */
+
+/*@media only screen and (max-width:480px){
+    .right52{
+        margin-top: 30px;
+     margin-bottom: 10px;
+}}
+@media only screen and (min-width:480px){
+    .right52{
+        margin-top: 120px;
+     margin-bottom: -10px;
+}}
+@media only screen and (min-width:768px){
+    .right52{
+        margin-top: 150px;
+        margin-bottom: 10px;
+}}
+@media only screen and (min-width:992px){
+    .right52{
+        margin-top: 180px;
+     margin-bottom: 10px;
+}}
+@media only screen and (min-width:1200px){
+    .right52{
+        margin-top: 84px;
+       margin-left: -30px;
+}} */
