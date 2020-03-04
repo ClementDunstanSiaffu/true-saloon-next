@@ -92,9 +92,22 @@ return(
 
 
 
-Pricing.getInitialProps =  async () => {
-  const response = await fetch ('http://localhost:3000/api/things/saloon')
-  const response1 = await fetch ('http://localhost:3000/api/things/servi')
+Pricing.getInitialProps =  async ({HOSTNAME}) => {
+  let url;
+  let url1;
+   if(HOSTNAME){
+      url = `{HOSTNAME}/api/things/saloon`
+      url1 = `{HOSTNAME}/api/things/servi` 
+   }
+   else {
+     url = 'http://localhost:3000/api/things/saloon';
+     url1 = 'http://localhost:3000/api/things/servi';
+   }  
+   
+
+
+  const response = await fetch (url)
+  const response1 = await fetch (url1)
 
   
   const saloon = await response.json();
