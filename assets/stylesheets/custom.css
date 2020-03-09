@@ -25,7 +25,7 @@
         color: white;
         font-size: 14px;
         font-weight: bold;
-        margin-left: 10px;
+        margin-left: -50px;
 }}
 @media only screen and (min-width:480px){
     .right2 > h1 {
