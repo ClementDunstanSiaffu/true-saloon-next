@@ -83,10 +83,10 @@
     @media only screen and (max-width:480px){
       &:not([class*="bg"]) {
         .navbar-toggler {
-          margin-bottom: 30px;
+         
           .navbar-toggler-bar {
             background: $default-color !important;
-            margin-top: 50px;
+            margin-top: -50px;
             margin-left: 150px;
             
   }}}}

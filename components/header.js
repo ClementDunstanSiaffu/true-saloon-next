@@ -49,7 +49,9 @@ function Header (){
            <img src={img100}  className="logo" ></img>
             </NavbarBrand>
             
-            <button
+
+            <div className="wrapper">
+            <button 
               aria-expanded={navbarCollapse}
               className={classnames("navbar-toggler navbar-toggler", {
                 toggled: navbarCollapse
@@ -60,6 +62,7 @@ function Header (){
               <span className="navbar-toggler-bar bar2" />
               <span className="navbar-toggler-bar bar3" />
             </button>
+            </div>
           </div>
        
          <Collapse
