@@ -50,7 +50,7 @@ function Header (){
             </NavbarBrand>
             
 
-            <div className="wrapper">
+            
             <button 
               aria-expanded={navbarCollapse}
               className={classnames("navbar-toggler navbar-toggler", {
@@ -62,7 +62,7 @@ function Header (){
               <span className="navbar-toggler-bar bar2" />
               <span className="navbar-toggler-bar bar3" />
             </button>
-            </div>
+          
           </div>
        
          <Collapse
