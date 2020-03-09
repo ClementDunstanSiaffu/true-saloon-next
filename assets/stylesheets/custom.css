@@ -14,10 +14,10 @@
 /* right2 */
 @media only screen and (max-width:480px){
     .right2 > h1 {
-
-        font-size: 50px;
+        font-weight:500;
+        font-size: 30px;
         color: white;
-        font-family: "Brush Script MT", italic;
+        font-family: "Brush Script MT", cursive;
     }}
 @media only screen and (max-width:480px){
     .right2 > h3{
