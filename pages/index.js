@@ -47,7 +47,7 @@ function Home(){
     <div className="filter" />
     <Container>
       <div className="right2">
-        <h1>Hair saloon  . barber shop</h1>
+        <h1>Dolyrus saloon. barber shop</h1>
         <h3>SELF CONFIDENCE.GROOMING.LIFESTYLE</h3>
         
      
