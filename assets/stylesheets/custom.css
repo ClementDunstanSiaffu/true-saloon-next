@@ -12,29 +12,29 @@
     }
   
 /* right2 */
-@media only screen and (max-width:600px){
+@media only screen and (max-width:480px){
     .right2 > h1 {
 
         font-size: 50px;
         color: white;
         font-family:  "Brush Script MT";
     }}
-@media only screen and (max-width:600px){
+@media only screen and (max-width:480px){
     .right2 > h3{
     
         color: white;
         font-size: 14px;
         font-weight: bold;
-        margin-left: 70px;
+        margin-left: 10px;
 }}
-@media only screen and (min-width:600px){
+@media only screen and (min-width:480px){
     .right2 > h1 {
 
         font-size: 50px;
         color: white;
         font-family:  "Brush Script MT";
     }}
-@media only screen and (min-width:600px){
+@media only screen and (min-width:480px){
     .right2 > h3{
     
         color: white;
