@@ -30,7 +30,7 @@ function Home(){
       backgroundPosition: 'center',
       backgroundSize: 'cover',
           backgroundRepeat: 'noRepeat',
-          marginTop:10,
+          marginTop:100,
           height: 640,
        
          
