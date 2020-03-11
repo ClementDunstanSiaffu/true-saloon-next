@@ -58,9 +58,11 @@ function Header (){
               })}
               onClick={toggleNavbarCollapse}
             >
+            <div className = "wrapper">
               <span className="navbar-toggler-bar bar1" />
               <span className="navbar-toggler-bar bar2" />
               <span className="navbar-toggler-bar bar3" />
+            </div>
             </button>
           
           </div>
