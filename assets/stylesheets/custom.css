@@ -485,11 +485,11 @@ margin-left:0px;
 @media only screen and (max-width : 480px){
     .right10{
         padding:auto 92px;
-        width:90px;
-        margin-left: 50px;
+        width:80px;
+        margin-left: 25px;
    
-        border-radius: 46px;
-        height: 92px;
+        border-radius: 40px;
+        height: 80px;
 }}
 @media only screen and (min-width:768px){
     .right10{
@@ -733,11 +733,11 @@ margin-left:0px;
     .right13{
         border: 1px solid black;
         padding:auto 100px;
-        width: 96px;
-        margin-left: 50px;
+        width: 80px;
+        margin-left: 25px;
         background-color: black;
-        border-radius: 46px;
-        height: 96px;
+        border-radius: 40px;
+        height: 80px;
         opacity: 0.7;
 }}
 @media only screen and (min-width:768px){
