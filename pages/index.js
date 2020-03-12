@@ -31,7 +31,7 @@ function Home(){
       backgroundSize: 'cover',
           backgroundRepeat: 'noRepeat',
           marginTop:10,
-          height: 640,
+          minHeight: 640,
        
          
           //opacity:0.83,
