@@ -76,11 +76,11 @@ function Header (){
           >
             <div className = "contain">
            <Nav navbar>
-           {/*<NavItem >
+           <NavItem >
            <Link href="/index" >
-               <a target = "_self"  className = "nav-link" >Home us</a>
+               <a target = "_self"  className = "nav-link" >Home </a>
             </Link>
-            </NavItem>*/}
+            </NavItem>
 
             <NavItem /*style = {right3}*/>
            
