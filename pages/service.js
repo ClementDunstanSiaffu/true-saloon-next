@@ -81,11 +81,13 @@ function Service () {
            </Col>
 
            <Col xs = "3">
-               <div  className = "right13">
+           <a href = "/appoint">
+              <div className = "right13">
                
-               <h4>make an appointement</h4>
-               
-           </div>  
+               <h4>make an appointment</h4>
+             
+           </div>
+           </a> 
              </Col>
            </Row>
            <footer>
