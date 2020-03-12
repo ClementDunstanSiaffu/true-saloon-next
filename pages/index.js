@@ -32,6 +32,7 @@ function Home(){
           backgroundRepeat: 'noRepeat',
           marginTop:10,
           minHeight: 680,
+          marginBottom:-60,
        
          
           //opacity:0.83,
