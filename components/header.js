@@ -38,6 +38,7 @@ function Header (){
      <Container>
      <div className="right">
             <NavbarBrand
+            
             style={{paddingLeft: "0"}}
               //data-placement="bottom"
              
@@ -57,15 +58,16 @@ function Header (){
                 toggled: navbarCollapse
               })}
               onClick={toggleNavbarCollapse}
+              
             >
-            <div className = "wrapper">
+              <div  className = "wrapper">
               <span className="navbar-toggler-bar bar1" />
               <span className="navbar-toggler-bar bar2" />
               <span className="navbar-toggler-bar bar3" />
-            </div>
+              </div>
             </button>
-          
-          </div>
+            </div>
+         
        
          <Collapse
            // className="justify-content-end"

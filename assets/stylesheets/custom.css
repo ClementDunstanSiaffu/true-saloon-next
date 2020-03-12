@@ -2529,7 +2529,7 @@ padding: 80px 50px;
     .logo{
         margin-top: -85px;
         margin-left: -172px;
-        width:650px;
+        width:250px;
         height :240px;
 }}
 @media only screen and (min-width:480px){
@@ -2708,14 +2708,50 @@ padding: 80px 50px;
 }} */
 
 
-.wrapper {
-     height:40px;
-     margin-left:320px;
-    width:55px;
-    border:1px solid grey;
-    margin-bottom: 20px;
-    margin-top:50px;
-  
-}
-
-  
+/* wrapper */
+@media only screen and (max-width:480px){
+    .wrapper {
+        height:40px;
+        margin-left:320px;
+       width:55px;
+       border:1px solid grey;
+     
+       margin-top:40px;
+}}
+@media only screen and (min-width:480px){
+    .wrapper {
+        height:40px;
+        margin-left:320px;
+       width:55px;
+       border:1px solid grey;
+     
+       margin-top:40px;
+}}
+@media only screen and (min-width:768px){
+    .wrapper {
+        height:40px;
+        margin-left:320px;
+       width:55px;
+       border:1px solid grey;
+     
+       margin-top:40px;
+}}
+@media only screen and (min-width:968px){
+    .wrapper {
+        height:40px;
+        margin-left:320px;
+       width:55px;
+       border:1px solid grey;
+     
+       margin-top:40px;
+}} 
+@media only screen and (min-width:1200px){
+    .wrapper {
+        height:40px;
+        margin-left:320px;
+       width:55px;
+       border:1px solid grey;
+     
+       margin-top:40px;
+}}
+/* ends here */
