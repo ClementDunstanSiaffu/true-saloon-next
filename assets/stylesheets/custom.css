@@ -1009,7 +1009,7 @@ margin-left:0px;
 @media only screen and (max-width:480px){
     .right18{
         margin-top: -10px;
-        margin-left: 90px;
+        margin-left: 87px;
 }}
 @media only screen and (min-width:768px){
     .right18{
@@ -1078,7 +1078,7 @@ margin-left:0px;
 @media only screen and (max-width:480px){
     .right18 > p {
         font-weight: 700;
-        font-size: 8px;
+        font-size: 6px;
         margin-left: -70px;
         margin-right: -180px;
         padding-left: 2px;
