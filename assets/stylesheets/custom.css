@@ -205,9 +205,9 @@
     .right6  {
         font-size: 25px;
         font-weight: 700;
-        margin-left: -70px;
+        margin-left: -135px;
         margin-right: -30px;
-        margin-top: 50px;
+        margin-top: 170px;
     }}
 @media only screen and (min-width:768px){
     .right6{
@@ -250,7 +250,7 @@
 
 @media only screen and (max-width: 480px){
         .right7 {
-            margin-left: -75px;
+            margin-left: -135px;
             text-align: start;
             color: black;
             font-size: 14px;
@@ -2640,9 +2640,9 @@ padding: 80px 50px;
 @media only screen and (max-width:480px){
     .right100{
           min-width: 100px;
-          height: 600px;
-          margin-left: -490px;
-          margin-top: -220px;
+          height: 400px;
+          margin-left: -330px;
+          margin-top: -40px;
        
 }}
 @media only screen and (min-width:480px){
