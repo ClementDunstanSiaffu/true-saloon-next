@@ -1186,7 +1186,7 @@ margin-left:0px;
 
 /* right22 > h7 */
 @media only screen and (min-width:480px){
-    .right22 > h7 {
+    .right22 > p {
        color: gray;
         font-weight: 600;
         font-size: 16px;
@@ -1194,15 +1194,15 @@ margin-left:0px;
         margin-left: 110px;
 }}
 @media only screen and (max-width:480px){
-        .right22 > h7 {
+        .right22 > p {
             color: gray;
             font-weight: 600;
             font-size: 14px;
             text-align: center;
-            margin-left: 130px;
+          
 }}
 @media only screen and (min-width:768px){
-    .right22 > h7 {
+    .right22 > p {
        color: gray;
         font-weight: 600;
         font-size: 16px;
@@ -1210,7 +1210,7 @@ margin-left:0px;
         margin-left: 240px;
 }}
 @media only screen and (min-width:992px){
-    .right22 > h7 {
+    .right22 > p {
        color: gray;
         font-weight: 600;
         font-size: 18px;
@@ -1218,10 +1218,11 @@ margin-left:0px;
         margin-left: 350px;
 }}
 @media only screen and (min-width:1200px){
-    .right22 > h7 {
+    .right22 > p {
        color: gray;
         font-weight: 600;
         margin-left: 450px;
+        font-size: 20px;
 }}
 
 
@@ -1459,10 +1460,10 @@ margin-left:0px;
 }}
 @media only screen and (max-width:480px){
              .right27 > h4 {
-                    font-size: 9px;
+                    font-size: 7px;
                     font-weight: 700;
                     color: white;
-                    margin-left: 30px;
+                    margin-left: 20px;
                     margin-right: -175px;
                     margin-top: -15px;
 }}
@@ -1505,12 +1506,12 @@ margin-left:0px;
 }}
  @media only screen and (max-width:480px){
             .right27 > p {
-                font-size: 10px;
+                font-size: 7px;
                 color: white;
                 font-weight: 400;
                 margin-top: 10px;
                 margin-right: -400px;
-                margin-left: 30px;
+                margin-left: 20px;
 }}
 @media only screen and (min-width:768px){
     .right27 > p {

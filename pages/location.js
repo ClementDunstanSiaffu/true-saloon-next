@@ -30,7 +30,7 @@ function Location () {
                <Header />
                <div className = "right22">
                    <h1>Our Locations</h1>
-                   <h7>Choose Your Nearby Barber</h7>
+                   <p>Choose Your Nearby Barber</p>
                </div>
 
                
