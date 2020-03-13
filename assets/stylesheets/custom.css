@@ -1716,7 +1716,10 @@ margin-left:0px;
  /* right61 */
  @media only screen and (max-width:480px){
     .right61{
-        margin-left: 100px;
+        
+        margin-left: 50px;
+       
+       
 }}
 @media only screen and (min-width:480px){
     .right61{
