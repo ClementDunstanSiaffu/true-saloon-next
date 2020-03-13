@@ -45,9 +45,9 @@ function Contact (){
                 </div>
                 <footer>
                     <span className = "right61" >
-                       <TwitterIcon fontSize = "large" style = {{width:60,height:60}}  className = "right44" />
-                       <InstagramIcon  fontSize = "large"  style = {{width:60,height:60}}  className = "right44"  />
-                       <ExpandLessIcon  fontSize = "large"  style = {{width:60,height:60}}  className = "right44" />
+                       <TwitterIcon fontSize = "large" style = {{width:50,height:50}}  className = "right44" />
+                       <InstagramIcon  fontSize = "large"  style = {{width:50,height:50}}  className = "right44"  />
+                       <ExpandLessIcon  fontSize = "large"  style = {{width:50,height:50}}  className = "right44" />
                     </span>
                     <div className = "right49">Clement Siaffu &copy;2020</div>
                 </footer>
