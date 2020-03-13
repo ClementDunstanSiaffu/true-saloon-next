@@ -1294,7 +1294,7 @@ margin-left:0px;
  }}
 @media only screen and (max-width:480px){
             .right26{
-                margin-top: 90px;
+                margin-top: 75px;
                 margin-left: 40px;
  }}
  @media only screen and (min-width:768px){
@@ -1463,7 +1463,7 @@ margin-left:0px;
                     font-size: 7px;
                     font-weight: 700;
                     color: white;
-                    margin-left: 20px;
+                    margin-left: 25px;
                     margin-right: -175px;
                     margin-top: -15px;
 }}
@@ -1511,7 +1511,7 @@ margin-left:0px;
                 font-weight: 400;
                 margin-top: 10px;
                 margin-right: -400px;
-                margin-left: 20px;
+                margin-left: 25px;
 }}
 @media only screen and (min-width:768px){
     .right27 > p {
