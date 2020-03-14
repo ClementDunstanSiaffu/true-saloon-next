@@ -27,8 +27,8 @@ return(
    <Container>
      <div className = "right20">
          <h1>Appointment</h1>
-          <h7>Book Your Service</h7>
-          <p>Sign up to our newsletters and get the most of our community advices <br />
+          <h3 >Book Your Service</h3>
+          <p>Sign up to our newsletters and get the most of our community advices 
               about hair and beard styles to improve your life style</p>
      </div>
      <div className = "right28">
