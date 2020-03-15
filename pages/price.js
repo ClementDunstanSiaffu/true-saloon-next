@@ -92,22 +92,24 @@ return(
 
 
 
-Pricing.getInitialProps =  async ({HOSTNAME}) => {
-  let url;
-  let url1;
+Pricing.getInitialProps =  async () => {
+  /*let url;
+  let urls;
+ 
    if(HOSTNAME){
       url = `{HOSTNAME}/api/things/saloon`
-      url1 = `{HOSTNAME}/api/things/servi` 
+      urls = `{HOSTNAME}/api/things/servi` 
    }
    else {
      url = 'http://localhost:3000/api/things/saloon';
-     url1 = 'http://localhost:3000/api/things/servi';
-   }  
+     urls = 'http://localhost:3000/api/things/servi';
+   } */ 
    
-
+   url = 'https://true-saloon-next.now.sh//api/things/saloon';
+   urls = 'https://true-saloon-next.now.sh/api/things/servi';
 
   const response = await fetch (url)
-  const response1 = await fetch (url1)
+  const response1 = await fetch (urls)
 
   
   const saloon = await response.json();
