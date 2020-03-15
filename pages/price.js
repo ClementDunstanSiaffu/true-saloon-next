@@ -93,10 +93,10 @@ return(
 
 
 Pricing.getInitialProps =  async () => {
-  /*let url;
+  let url;
   let urls;
  
-   if(HOSTNAME){
+ /*  if(HOSTNAME){
       url = `{HOSTNAME}/api/things/saloon`
       urls = `{HOSTNAME}/api/things/servi` 
    }
