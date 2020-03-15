@@ -2358,6 +2358,7 @@ padding: 80px 50px;
         .right45 {
             background-color:lightcoral;
             min-height: 320px;
+            overflow-x: hidden;
 }}
 @media only screen and (min-width:768px){
     .right45 {
@@ -2411,6 +2412,7 @@ padding: 80px 50px;
             font-weight: 800;
             font-size: 40px;
             text-align: center;
+            margin-top: 220px;
 }}
 @media only screen and (min-width:768){
     .right46  > h1 {
@@ -2444,7 +2446,7 @@ padding: 80px 50px;
 }}
 @media only screen and (max-width:480px){
         .right46 > p {
-    
+            margin-top: 10px;
             font-size: 18px;
             font-weight: 300;
             color: darkred;
@@ -2502,8 +2504,10 @@ padding: 80px 50px;
 
 @media only screen and (max-width:480px){
     .right48 {
-        margin: 80px auto;
+        /*margin: 80px auto;*/
         max-width: 700px;
+        margin-left: -12px;
+        margin-top: 80px;
 }}
 @media only screen and (min-width:480px){
     .right48 {

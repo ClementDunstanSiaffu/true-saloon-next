@@ -106,7 +106,7 @@ Pricing.getInitialProps =  async () => {
    } */ 
    
    url = 'https://true-saloon-next.now.sh//api/things/saloon';
-   urls = 'https://true-saloon-next.now.sh/api/things/servi';
+   urls = 'https://true-saloon-next.now.sh//api/things/servi';
 
   const response = await fetch (url)
   const response1 = await fetch (urls)
