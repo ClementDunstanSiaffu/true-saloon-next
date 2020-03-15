@@ -5,7 +5,7 @@ import Head from 'next/head';
 import TwitterIcon from '@material-ui/icons/Twitter';
 import InstagramIcon from '@material-ui/icons/Instagram';
 import ExpandLessIcon from '@material-ui/icons/ExpandLess';
-
+import FacebookIcon from '@material-ui/icons/Facebook';
 import Header from '../components/header';
 
 function Contact (){
@@ -35,7 +35,7 @@ function Contact (){
 
                     <p>Phone: (+255) 719 320 9567 <br />
                         Fax: (513) 352-4267 <br />
-                        Email : barbershop@barber.com <br />
+                        Email : dolyrusbarbershop@barber.com <br />
                     </p>
 
                     <p>
@@ -47,7 +47,7 @@ function Contact (){
                     <span className = "right61" >
                        <TwitterIcon fontSize = "large" style = {{width:50,height:50}}  className = "right44" />
                        <InstagramIcon  fontSize = "large"  style = {{width:50,height:50}}  className = "right44"  />
-                       <ExpandLessIcon  fontSize = "large"  style = {{width:50,height:50}}  className = "right44" />
+                       <FacebookIcon fontSize = "large"  style = {{width:50,height:50}}  className = "right44" />
                     </span>
                     <div className = "right49">Clement Siaffu &copy;2020</div>
                 </footer>
