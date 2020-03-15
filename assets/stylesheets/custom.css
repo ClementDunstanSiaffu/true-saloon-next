@@ -414,6 +414,7 @@ margin-left:0px;
         background-color: lightseagreen;
         margin-top: -50px;
         min-height: 640px;
+        overflow-x: hidden;
     }}
 @media only screen and (max-width:480px){
 .right8{
@@ -426,6 +427,7 @@ margin-left:0px;
         background-color: lightseagreen ;
         margin-top: -50px;
         min-height: 640px;
+        overflow: hidden;
 }}
 @media only screen and (min-width:992px){
     .right8{
@@ -522,7 +524,7 @@ margin-left:0px;
 /*right11 */
 @media only screen and (min-width:480px){
     .right11{
-        margin-top: 125px;
+        margin-top: 250px;
  }}
 @media only screen and (max-width:480px){
     .right11{
@@ -530,7 +532,7 @@ margin-left:0px;
 }}
 @media only screen and (min-width:768px){
     .right11{
-        margin-top: 150px;
+        margin-top: 250px;
 }}
 @media only screen and (min-width:992px){
     .right11{
@@ -820,7 +822,8 @@ margin-left:0px;
     .right14{
         background-color: rgb(199, 146, 68);
         min-height: 640px;
-}}
+        overflow-x: hidden;
+    }}
 @media only screen and (max-width:480px){
         .right14{
            background-color: rgb(199, 146, 68);
@@ -831,6 +834,7 @@ margin-left:0px;
     .right14{
         background-color: rgb(199, 146, 68);
         min-height: 640px;
+        overflow-x: hidden;
     }
 }
 @media only screenn and (min-width:992px){
@@ -848,7 +852,7 @@ margin-left:0px;
 /* right15 */
 @media only screen and (min-width:480px){
     .right15 {
-     margin-top: 120px;
+     margin-top: 250px;
 }}
 @media only screen and (max-width:480px){
     .right15 {
@@ -856,7 +860,7 @@ margin-left:0px;
 }}
 @media only screen and (min-width:768px){
     .right15 {
-     margin-top: 140px;
+     margin-top: 230px;
 }}
 @media only screen and (min-width:992px){
     .right15 {
@@ -1122,6 +1126,7 @@ margin-left:0px;
     .right21 {
         background-color: darkred;
         min-height: 640px;
+        overflow-x: hidden;
 }}
 @media only screen and (max-width:480px){
         .right21 {
@@ -1134,6 +1139,7 @@ margin-left:0px;
     .right21 {
         background-color:darkred;
         min-height: 640px;
+        overflow-x: hidden;
 }}
 @media only screen and (min-width:992px){
     .right21 {
@@ -1150,7 +1156,7 @@ margin-left:0px;
 /* right22 > h1 */
 @media only screen and (min-width:480px){
     .right22 > h1 {
-        margin-top: 100px;
+        margin-top: 250px;
         font-weight: 800;
         font-size: 40px;
         text-align: center;
@@ -1164,7 +1170,7 @@ margin-left:0px;
 }}
 @media only screen and (min-width:768px){
     .right22 > h1 {
-        margin-top: 120px;
+        margin-top: 250px;
         font-weight: 800;
         font-size: 45px;
         text-align: center;
@@ -1207,7 +1213,7 @@ margin-left:0px;
         font-weight: 600;
         font-size: 16px;
         text-align: center;
-        margin-left: 240px;
+       
 }}
 @media only screen and (min-width:992px){
     .right22 > p {
@@ -1625,7 +1631,7 @@ margin-left:0px;
 /* right24 > h1 */
 @media only screen and (min-width:480px){
     .right24 > h1 {
-    margin-top: 100px;
+    margin-top: 250px;
     font-size:37.5px;
     font-weight: 600;
     text-align: center;
@@ -1639,7 +1645,7 @@ margin-left:0px;
 }}
 @media only screen and (min-width:768px){
     .right24 > h1 {
-    margin-top: 110px;
+    margin-top: 230px;
     font-size: 40px;
     font-weight: 600;
     text-align: center;
@@ -1723,11 +1729,11 @@ margin-left:0px;
 }}
 @media only screen and (min-width:480px){
     .right61{
-        margin-left: 115px;
+        margin-left: 150px;
 }}
 @media only screen and (min-width:768px){
     .right61{
-        margin-left: 245px;
+        margin-left: 285px;
 }}
 @media only screen and (min-width:992px){
     .right61{
@@ -1789,6 +1795,7 @@ margin-left:0px;
     .right19{
         background-color: #f6f6f6;
         min-height: 640px;
+        overflow-x: hidden;
 }}
 @media only screen and (max-width:480px){
         .right19{
@@ -1818,7 +1825,7 @@ margin-left:0px;
 /* right20 > h1 */
 @media only screen and (min-width:480px){
     .right20 > h1 {
-        margin-top: 37.5px;
+        margin-top: 75px;
         font-weight: 800;
         font-size:45px;
         text-align: center;
@@ -1832,7 +1839,7 @@ margin-left:0px;
 }}
 @media only screen and (min-width:768px){
     .right20 > h1 {
-        margin-top: 45px;
+        margin-top: 90px;
         font-weight: 800;
         font-size:50px;
         text-align: center;
@@ -1866,26 +1873,26 @@ margin-left:0px;
         color: brown;
         font-weight: 600;
         text-align: center;
-        margin-left: 155px;
+        font-size: 14px; 
 }}
 @media only screen and (min-width:768px){
     .right20 > h3 {
         color: brown;
         font-weight: 600;
         text-align: center;
-        margin-left: 275px;
+        font-size: 14px; 
 }}
 @media only screen and (min-width:992px){
     .right20 > h3  {
         color: brown;
         font-weight: 600;
-        margin-left: 400px;
+        text-align: center;
 }}
 @media only screen and (min-width:1200px){
     .right20 > h3 {
         color: brown;
         font-weight: 600;
-        margin-left: 500px;
+       text-align: center;
 }}
 
 
@@ -2313,12 +2320,12 @@ padding: 80px 50px;
 }}
 
 /* right43*/
-@media only screen and (max-width:600px){
+@media only screen and (max-width:480px){
     .right43 {
         margin-top: -60px;
         margin-left: 150px;
 }}
-@media only screen and (min-width:600px){
+@media only screen and (min-width:480px){
     .right43 {
         margin-top: -60px;
         margin-left: 290px;
@@ -2353,6 +2360,7 @@ padding: 80px 50px;
     .right45 {
         background-color:lightcoral;
         min-height: 640px;
+        overflow-x: hidden;
 }}
 @media only screen and (max-width:480px){
         .right45 {
@@ -2380,7 +2388,7 @@ padding: 80px 50px;
 /* right46 */
 @media only screen and (min-width:480px){
     .right46 {
-      margin-top: 125px;
+      margin-top: 250px;
 }}
 @media only screen and (max-width:480px){
         .right46 {
@@ -2388,7 +2396,7 @@ padding: 80px 50px;
 }}
 @media only screen and (min-width:768px){
     .right46 {
-      margin-top: 145px;
+      margin-top: 250px;
 }}
 @media only screen and (min-width:992px){
     .right46 {
@@ -2737,7 +2745,7 @@ padding: 80px 50px;
 @media only screen and (min-width:480px){
     .wrapper {
         height:40px;
-        margin-left:320px;
+        margin-left:480px;
        width:55px;
        border:1px solid grey;
      
