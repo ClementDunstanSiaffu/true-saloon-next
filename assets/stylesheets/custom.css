@@ -128,7 +128,7 @@
 @media only screen and (min-width: 1200px) {
     .right4{
 
-        margin-top: 180px;
+        margin-top: 250px;
         }}
 
 
@@ -392,6 +392,15 @@ margin-left:0px;
         overflow: hidden;
         
 }}
+@media only screen and (min-width:992px){
+    .right54 {
+        background-color: lightslategray;
+        background-size: cover;
+        margin-top: -20px;
+        min-height: 645px;
+        overflow: hidden;
+        
+}}
 @media only screen and (min-width:1200px){
     .right54 {
         background-color:lightslategray;
@@ -536,11 +545,11 @@ margin-left:0px;
 }}
 @media only screen and (min-width:992px){
     .right11{
-        margin-top: 175px;
+        margin-top: 250px;
  }}
 @media only screen and (min-width:1200px){
     .right11{
-        margin-top: 200px;
+        margin-top: 250px;
  }}
 
 
@@ -864,11 +873,11 @@ margin-left:0px;
 }}
 @media only screen and (min-width:992px){
     .right15 {
-     margin-top: 160px;
+     margin-top: 230px;
 }}
 @media only screen and (min-width:1200px){
     .right15 {
-     margin-top: 180px;
+     margin-top: 230px;
 }}    
 
 
@@ -1177,14 +1186,14 @@ margin-left:0px;
 }}
 @media only screen and (min-width:992px){
     .right22 > h1 {
-        margin-top: 140px;
+        margin-top: 250px;
         font-weight: 800;
         font-size: 50px;
         text-align: center;
 }}
 @media only screen and (min-width:1200px){
     .right22 > h1 {
-        margin-top: 160px;
+        margin-top: 250px;
         font-weight: 800;
         text-align: center;
 }}
@@ -1221,14 +1230,15 @@ margin-left:0px;
         font-weight: 600;
         font-size: 18px;
         text-align: center;
-        margin-left: 350px;
+        
 }}
 @media only screen and (min-width:1200px){
     .right22 > p {
        color: gray;
         font-weight: 600;
-        margin-left: 450px;
+      
         font-size: 20px;
+        text-align: center;
 }}
 
 
@@ -1652,14 +1662,14 @@ margin-left:0px;
 }}
 @media only screen and (min-width:992px){
     .right24 > h1 {
-    margin-top: 120px;
+    margin-top: 230px;
     font-weight: 600;
     font-size: 45px;
     text-align: center;
 }}
 @media only screen and (min-width:1200px){
     .right24 > h1 {
-    margin-top: 140px;
+    margin-top: 230px;
     font-weight: 600;
     text-align: center;
 }}
@@ -1741,7 +1751,7 @@ margin-left:0px;
 }}
 @media only screen and (min-width:1200px){
     .right61{
-        margin-left: 460px;
+        margin-left: 502px;
 }}
  /* ends here */
 
@@ -1846,14 +1856,14 @@ margin-left:0px;
 }}
 @media only screen and (min-width:992px){
     .right20 > h1 {
-        margin-top: 50px;
+        margin-top: 105px;
         font-weight: 800;
         font-size: 50px;
         text-align: center;
 }}   
 @media only screen and (min-width:1200px){
     .right20 > h1 {
-        margin-top: 50px;
+        margin-top: 105px;
         font-weight: 800;
         text-align: center;
 }}
@@ -2400,11 +2410,11 @@ padding: 80px 50px;
 }}
 @media only screen and (min-width:992px){
     .right46 {
-      margin-top: 190px;
+      margin-top: 250px;
 }}
 @media only screen and (min-width:1200px){
     .right46 {
-      margin-top: 220px;
+      margin-top: 250px;
 }}
 
 
@@ -2573,8 +2583,8 @@ padding: 80px 50px;
 @media only screen and (min-width:992px){
     .logo{
         margin-top: -100px;
-        margin-left: -98px;
-        width:400px;
+        margin-left: -45px;
+        width:290px;
         height :240px;
 }}
 @media only screen and (min-width:1200px){
@@ -2589,7 +2599,7 @@ padding: 80px 50px;
 /*contain*/
 @media only screen and (min-width:992px){
     .contain{
-        margin-left: -100px;
+        margin-left: -150px;
     }
 }
 @media only screen and (min-width:992px){
