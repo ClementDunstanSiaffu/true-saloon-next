@@ -37,7 +37,7 @@ return(
         <Col md={6}>
           <FormGroup>
             <Label for="exampleEmail" className = "right35">Your name</Label>
-            <Input type="email" name="email" id="exampleEmail" />
+            <Input type="" name="email" id="exampleEmail"/>
              <PersonIcon fontSize = "large" className = "right43" />
           </FormGroup>
         </Col>
@@ -45,7 +45,7 @@ return(
         <Col md={6}>
           <FormGroup>
             <Label for="examplePassword" className = "right36">Your email</Label>
-            <Input type="password" name="password" id="examplePassword"  />
+            <Input type="email" name="password" id="examplePassword"  />
             <EmailIcon fontSize = "large" className = "right43" />
           </FormGroup>
         </Col>
@@ -56,7 +56,7 @@ return(
         <Col md={6}>
           <FormGroup>
             <Label for="exampleEmail" className = "right37">Your phone</Label>
-            <Input type="email" name="email" id="exampleEmail"  />
+            <Input type="" name="email" id="exampleEmail"  />
             <PhoneIcon fontSize = "large" className = "right43" />
           </FormGroup>
         </Col>
@@ -79,14 +79,14 @@ return(
         <Col md={6}>
           <FormGroup>
             <Label for="exampleEmail" className = "right39">Date</Label>
-            <Input type="email" name="email" id="exampleEmail" placeholder = "(Ex:12/01/2020)" />
+            <Input type="" name="email" id="exampleEmail" placeholder = "(Ex:12/01/2020)" />
           </FormGroup>
           </Col>
 
          <Col md={6}>
           <FormGroup>
             <Label for="examplePassword" className = "right40">Time</Label>
-            <Input type="password" name="password" id="examplePassword" placeholder="(Ex:07:00pm)" />
+            <Input type="" name="password" id="examplePassword" placeholder="(Ex:07:00pm)" />
           </FormGroup>
          </Col>
        </Row>
