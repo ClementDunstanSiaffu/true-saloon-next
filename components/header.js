@@ -85,7 +85,7 @@ function Header (){
             <NavItem /*style = {right3}*/>
            
                <Link href = "/about">
-                 <a target = "_self"  className="nav-link">About us</a>
+                 <a target = "_self"  className="nav-link">About</a>
                  </Link>
                </NavItem>
            

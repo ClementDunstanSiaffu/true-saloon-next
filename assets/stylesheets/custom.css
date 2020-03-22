@@ -2357,7 +2357,59 @@ padding: 80px 50px;
         margin-left: 295px;
 }}
 
+/*wrapper10 */
+@media only screen and (max-width:480px){
+    .wrapper10{
+      
+        font-size:10px;
+}}
+@media only screen and (min-width:480px){
+    .wrapper10{
+    
+        font-size: 10px;
+}}
+@media only screen and (min-width:768px){
+    .wrapper10{
+       font-size: 12px;
+        
+}}
+@media only screen and (min-width:992px){
+    .wrapper10{
+       font-size: 14px;
+     
+}}
+@media only screen and (min-width:12000px){
+    .wrapper10{
+       font-size:18px;
+       
+}}
+/*ends here*/
 
+/* wrapper11 */
+
+@media only screen and (max-width:480px){
+    .wrapper11{
+        font-size: 14px;
+}}
+@media only screen and (min-width:480px){
+    .wrapper11{
+        font-size: 14px;
+      
+}}
+@media only screen and (min-width:768px){
+    .wrapper11{
+        font-size: 20px;
+}}
+@media only screen and (min-width:992px){
+    .wrapper11{
+        font-size: 30px;
+}}
+@media only screen and (min-width:1200px){
+    .wrapper11{
+        font-size: 40px;
+}}
+
+/* ends here*/
 /*end */
 
 
@@ -2793,3 +2845,6 @@ padding: 80px 50px;
 a>.right13:hover{
     background-color: grey;
 }
+
+
+

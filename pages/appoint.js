@@ -32,12 +32,12 @@ return(
               about hair and beard styles to improve your life style</p>
      </div>
      <div className = "right28">
-     <Form>
+     <Form action = '/book' method = 'POST'>
       <Row form className = "right29">
         <Col md={6}>
           <FormGroup>
             <Label for="exampleEmail" className = "right35">Your name</Label>
-            <Input type="" name="email" id="exampleEmail"/>
+            <Input type="" name="name" id="exampleEmail"/>
              <PersonIcon fontSize = "large" className = "right43" />
           </FormGroup>
         </Col>
@@ -45,7 +45,7 @@ return(
         <Col md={6}>
           <FormGroup>
             <Label for="examplePassword" className = "right36">Your email</Label>
-            <Input type="email" name="password" id="examplePassword"  />
+            <Input type="email" name="email" id="examplePassword"  />
             <EmailIcon fontSize = "large" className = "right43" />
           </FormGroup>
         </Col>
@@ -56,7 +56,7 @@ return(
         <Col md={6}>
           <FormGroup>
             <Label for="exampleEmail" className = "right37">Your phone</Label>
-            <Input type="" name="email" id="exampleEmail"  />
+            <Input type="" name="phone" id="exampleEmail"  />
             <PhoneIcon fontSize = "large" className = "right43" />
           </FormGroup>
         </Col>
@@ -64,7 +64,7 @@ return(
         <Col md={6}>
           <FormGroup>
             <Label for="examplePassword" className = "right38">Choose a barber</Label>
-            <Input type="select" name="password" id="examplePassword" placeholder="choose a barber" >
+            <Input type="select" name="barber" id="examplePassword" placeholder="choose a barber" >
             <option>Choose a barber</option>
             <option>Michael Cowder</option>
             <option>Christian Clark</option>
@@ -79,21 +79,21 @@ return(
         <Col md={6}>
           <FormGroup>
             <Label for="exampleEmail" className = "right39">Date</Label>
-            <Input type="" name="email" id="exampleEmail" placeholder = "(Ex:12/01/2020)" />
+            <Input type="" name="date" id="exampleEmail" placeholder = "(Ex:12/01/2020)" />
           </FormGroup>
           </Col>
 
          <Col md={6}>
           <FormGroup>
             <Label for="examplePassword" className = "right40">Time</Label>
-            <Input type="" name="password" id="examplePassword" placeholder="(Ex:07:00pm)" />
+            <Input type="" name="time" id="examplePassword" placeholder="(Ex:07:00pm)" />
           </FormGroup>
          </Col>
        </Row>
       
        <FormGroup className = "right32">
             <Label for="examplePassword" className = "right41">services</Label>
-            <Input type="select" name="password" id="examplePassword" placeholder="password placeholder" >
+            <Input type="select" name="service" id="examplePassword" placeholder="password placeholder" >
             <option>Choose a service</option>
             <option>Shaves</option>
             <option>Hair cut</option>
@@ -103,7 +103,7 @@ return(
 
         <FormGroup className = "right33">
             <Label for="examplePassword" className = "right42">Choose a Barbershop</Label>
-            <Input type="select" name="password" id="examplePassword" placeholder="password placeholder" >
+            <Input type="select" name="shop" id="examplePassword" placeholder="password placeholder" >
             <option>Choose a barbershop</option>
             <option>Arusha</option>
             <option>Dar es salaam</option>
