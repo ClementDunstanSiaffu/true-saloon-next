@@ -3,7 +3,9 @@
 {
     "version": 2,
     "builds": [
-      { "src": "server/index.js", "use": "@now/node" },
+      { "src": "server/index.js", "use": "@now/node-server" },
       { "src": "next.config.js", "use": "@now/next" }
+
     ]
+    
   }
