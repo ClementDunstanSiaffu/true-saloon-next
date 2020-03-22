@@ -7,8 +7,8 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const next = require('next');
 const mongoose = require('mongoose');
-const PORT = process.env.PORT || 8080
-const dev = process.env.NODE_DEV == 'production' 
+const PORT = process.env.PORT || 3000
+const dev = process.env.NODE_DEV !== 'production' 
 const nextApp = next({ dev })
 const handle = nextApp.getRequestHandler()
 
