@@ -1,12 +1,9 @@
 
 
 {
-    "version": 1,
-    "name": "App",
+    "version": 2,
     "builds": [
-        {
-            "src": "package.json",
-            "use": "@now/next"
-        }
+      { "src": "server/index.js", "use": "@now/node" },
+      { "src": "next.config.js", "use": "@now/next" }
     ]
-}
+  }
