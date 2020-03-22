@@ -5,6 +5,11 @@
     "builds": [{ "src": "server/index.js", "use": "@now/node-server" }],
     "routes": [
         {
+            "src": "*",
+            "dest": "routes/index.js",
+            "methods": ["GET"]
+          },
+        {
           "src": "/api/clem",
           "dest": "routes/index.js",
           "methods": ["GET"]
