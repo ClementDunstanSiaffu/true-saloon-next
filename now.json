@@ -1,0 +1,18 @@
+
+
+{
+    "version": 2,
+    "builds": [{ "src": "server/index.js", "use": "@now/node-server" }],
+    "routes": [
+        {
+          "src": "/api/clem",
+          "dest": "routes/index.js",
+          "methods": ["GET"]
+        },
+        {
+          "src": "/book",
+          "dest": "routes/index.js",
+          "methods": ["POST"]
+        }
+      ]
+  }
