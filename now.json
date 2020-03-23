@@ -4,9 +4,10 @@
 {
   "version": 2,
   "builds": [
-    { "src": "server/index.js", "use": "@now/node-server" }
+      { "src": "package.json", "use": "@now/next" },
+      { "src": "lambda_file.js", "use": "@now/node"}
   ],
   "routes": [
-    { "src": "/.*", "dest": "server/index.js" }
+      { "src": "api_route", "dest": "lambda_file.js"}
   ]
 }
