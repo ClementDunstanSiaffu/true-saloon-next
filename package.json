@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "node server/index.js",
+    "dev": "next dev",
     "build": "next build",
     "now-build": "next build",
-    "start": "NODE_ENV=production node server/index.js"
+    "start": "next start"
   },
   "dependencies": {
     "@material-ui/core": "^4.9.3",
