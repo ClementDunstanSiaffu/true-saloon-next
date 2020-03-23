@@ -7,11 +7,7 @@
     { "src": "next.config.js", "use": "@now/next" }],
 
     "routes": [
-      {
-        "src": "*",
-        "dest": "server/index.js",
-        "methods": ["GET"]
-      },
+   
       {
         "src": "/book",
         "dest": "server/index.js",
