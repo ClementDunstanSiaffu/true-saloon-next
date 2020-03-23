@@ -1,13 +1,6 @@
 
 
-
 {
   "version": 2,
-  "builds": [
-      { "src": "package.json", "use": "@now/next" },
-      { "src": "lambda_file.js", "use": "@now/node"}
-  ],
-  "routes": [
-      { "src": "api_route", "dest": "lambda_file.js"}
-  ]
+  "builds": [{ "src": "package.json", "use": "@now/node" }]
 }
