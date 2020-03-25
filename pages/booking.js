@@ -57,7 +57,7 @@ function Todos ({data}){
 
 Todos.getInitialProps = async () =>{
 
-    const resp = await fetch ('http://localhost:8080/api/clem');
+    const resp = await fetch ('https://stark-island-63709.herokuapp.com/clem');
     const data = await resp.json();
    
     return {data}
