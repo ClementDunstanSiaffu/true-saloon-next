@@ -3,25 +3,8 @@
 {
   "version": 2,
   "builds": [
-    { "src": "server/index.js", "use": "@now/node" },
-    { "src": "next.config.js", "use": "@now/next" }],
+    { "src": "pages/api/server/index.js", "use": "@now/node" },
+    { "src": "next.config.js", "use": "@now/next" }]
 
-    "routes": [
-   
-      {
-        "src": "/(.*)",
-        "dest": "server/index.js",
-        "methods": ["GET"]
-      },
-      {
-        "src": "/book",
-        "dest": "server/index.js",
-        "methods": ["POST"]
-      },
-      {
-        "src": "/api/clem",
-        "dest": "server/index.js",
-        "methods": ["GET"]
-      }
-    ]
+    
 }
