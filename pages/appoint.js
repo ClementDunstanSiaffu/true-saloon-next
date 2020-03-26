@@ -32,7 +32,7 @@ return(
               about hair and beard styles to improve your life style</p>
      </div>
      <div className = "right28">
-     <Form action = 'https://fast-headland-10847.herokuapp.com/okay' method = 'POST'>
+     <Form action = 'https://fast-headland-10847.herokuapp.com/orders' method = 'POST'>
       <Row form className = "right29">
         <Col md={6}>
           <FormGroup>
